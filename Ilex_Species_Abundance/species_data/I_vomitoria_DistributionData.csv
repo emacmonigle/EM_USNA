@@ -1,0 +1,266 @@
+﻿Symbol,Country,State,State FIP,County,County FIP
+ILVO,United States,Alabama,01,,
+ILVO,United States,Alabama,01,Autauga,001
+ILVO,United States,Alabama,01,Baldwin,003
+ILVO,United States,Alabama,01,Blount,009
+ILVO,United States,Alabama,01,Chilton,021
+ILVO,United States,Alabama,01,Choctaw,023
+ILVO,United States,Alabama,01,Clarke,025
+ILVO,United States,Alabama,01,Coffee,031
+ILVO,United States,Alabama,01,Conecuh,035
+ILVO,United States,Alabama,01,Coosa,037
+ILVO,United States,Alabama,01,Covington,039
+ILVO,United States,Alabama,01,Crenshaw,041
+ILVO,United States,Alabama,01,Dale,045
+ILVO,United States,Alabama,01,Dallas,047
+ILVO,United States,Alabama,01,Escambia,053
+ILVO,United States,Alabama,01,Geneva,061
+ILVO,United States,Alabama,01,Greene,063
+ILVO,United States,Alabama,01,Lee,081
+ILVO,United States,Alabama,01,Macon,087
+ILVO,United States,Alabama,01,Marengo,091
+ILVO,United States,Alabama,01,Mobile,097
+ILVO,United States,Alabama,01,Monroe,099
+ILVO,United States,Alabama,01,Pickens,107
+ILVO,United States,Alabama,01,Sumter,119
+ILVO,United States,Alabama,01,Tuscaloosa,125
+ILVO,United States,Alabama,01,Washington,129
+ILVO,United States,Alabama,01,Wilcox,131
+ILVO,United States,Arkansas,05,,
+ILVO,United States,Arkansas,05,Clark,019
+ILVO,United States,Arkansas,05,Drew,043
+ILVO,United States,Arkansas,05,Garland,051
+ILVO,United States,Arkansas,05,Hempstead,057
+ILVO,United States,Arkansas,05,Hot Spring,059
+ILVO,United States,Arkansas,05,Montgomery,097
+ILVO,United States,Arkansas,05,Pike,109
+ILVO,United States,Arkansas,05,Polk,113
+ILVO,United States,Arkansas,05,Pulaski,119
+ILVO,United States,Arkansas,05,Sevier,133
+ILVO,United States,Florida,12,,
+ILVO,United States,Florida,12,Alachua,001
+ILVO,United States,Florida,12,Baker,003
+ILVO,United States,Florida,12,Bay,005
+ILVO,United States,Florida,12,Brevard,009
+ILVO,United States,Florida,12,Citrus,017
+ILVO,United States,Florida,12,Clay,019
+ILVO,United States,Florida,12,Dixie,029
+ILVO,United States,Florida,12,Duval,031
+ILVO,United States,Florida,12,Escambia,033
+ILVO,United States,Florida,12,Flagler,035
+ILVO,United States,Florida,12,Franklin,037
+ILVO,United States,Florida,12,Gadsden,039
+ILVO,United States,Florida,12,Gulf,045
+ILVO,United States,Florida,12,Hernando,053
+ILVO,United States,Florida,12,Highlands,055
+ILVO,United States,Florida,12,Hillsborough,057
+ILVO,United States,Florida,12,Holmes,059
+ILVO,United States,Florida,12,Jackson,063
+ILVO,United States,Florida,12,Jefferson,065
+ILVO,United States,Florida,12,Levy,075
+ILVO,United States,Florida,12,Liberty,077
+ILVO,United States,Florida,12,Manatee,081
+ILVO,United States,Florida,12,Marion,083
+ILVO,United States,Florida,12,Nassau,089
+ILVO,United States,Florida,12,Okaloosa,091
+ILVO,United States,Florida,12,Pasco,101
+ILVO,United States,Florida,12,Pinellas,103
+ILVO,United States,Florida,12,Polk,105
+ILVO,United States,Florida,12,Santa Rosa,113
+ILVO,United States,Florida,12,Sarasota,115
+ILVO,United States,Florida,12,St. Johns,109
+ILVO,United States,Florida,12,Suwannee,121
+ILVO,United States,Florida,12,Taylor,123
+ILVO,United States,Florida,12,Volusia,127
+ILVO,United States,Florida,12,Wakulla,129
+ILVO,United States,Florida,12,Walton,131
+ILVO,United States,Florida,12,Washington,133
+ILVO,United States,Georgia,13,,
+ILVO,United States,Georgia,13,Baker,007
+ILVO,United States,Georgia,13,Ben Hill,017
+ILVO,United States,Georgia,13,Brantley,025
+ILVO,United States,Georgia,13,Bryan,029
+ILVO,United States,Georgia,13,Bulloch,031
+ILVO,United States,Georgia,13,Camden,039
+ILVO,United States,Georgia,13,Candler,043
+ILVO,United States,Georgia,13,Charlton,049
+ILVO,United States,Georgia,13,Chatham,051
+ILVO,United States,Georgia,13,Clay,061
+ILVO,United States,Georgia,13,Crisp,081
+ILVO,United States,Georgia,13,Echols,101
+ILVO,United States,Georgia,13,Glynn,127
+ILVO,United States,Georgia,13,Harris,145
+ILVO,United States,Georgia,13,Lee,177
+ILVO,United States,Georgia,13,Liberty,179
+ILVO,United States,Georgia,13,Long,183
+ILVO,United States,Georgia,13,McIntosh,191
+ILVO,United States,Georgia,13,Morgan,211
+ILVO,United States,Georgia,13,Screven,251
+ILVO,United States,Georgia,13,Talbot,263
+ILVO,United States,Georgia,13,Tattnall,267
+ILVO,United States,Georgia,13,Toombs,279
+ILVO,United States,Georgia,13,Wayne,305
+ILVO,United States,Georgia,13,Worth,321
+ILVO,United States,Louisiana,22,,
+ILVO,United States,Louisiana,22,Acadia,001
+ILVO,United States,Louisiana,22,Allen,003
+ILVO,United States,Louisiana,22,Ascension,005
+ILVO,United States,Louisiana,22,Avoyelles,009
+ILVO,United States,Louisiana,22,Beauregard,011
+ILVO,United States,Louisiana,22,Bienville,013
+ILVO,United States,Louisiana,22,Bossier,015
+ILVO,United States,Louisiana,22,Caddo,017
+ILVO,United States,Louisiana,22,Calcasieu,019
+ILVO,United States,Louisiana,22,Caldwell,021
+ILVO,United States,Louisiana,22,Cameron,023
+ILVO,United States,Louisiana,22,Catahoula,025
+ILVO,United States,Louisiana,22,Claiborne,027
+ILVO,United States,Louisiana,22,De Soto,031
+ILVO,United States,Louisiana,22,East Baton Rouge,033
+ILVO,United States,Louisiana,22,East Feliciana,037
+ILVO,United States,Louisiana,22,Evangeline,039
+ILVO,United States,Louisiana,22,Franklin,041
+ILVO,United States,Louisiana,22,Grant,043
+ILVO,United States,Louisiana,22,Iberia,045
+ILVO,United States,Louisiana,22,Iberville,047
+ILVO,United States,Louisiana,22,Jackson,049
+ILVO,United States,Louisiana,22,Jefferson,051
+ILVO,United States,Louisiana,22,Jefferson Davis,053
+ILVO,United States,Louisiana,22,Lafayette,055
+ILVO,United States,Louisiana,22,Lafourche,057
+ILVO,United States,Louisiana,22,LaSalle,059
+ILVO,United States,Louisiana,22,Lincoln,061
+ILVO,United States,Louisiana,22,Livingston,063
+ILVO,United States,Louisiana,22,Madison,065
+ILVO,United States,Louisiana,22,Morehouse,067
+ILVO,United States,Louisiana,22,Natchitoches,069
+ILVO,United States,Louisiana,22,Orleans,071
+ILVO,United States,Louisiana,22,Ouachita,073
+ILVO,United States,Louisiana,22,Plaquemines,075
+ILVO,United States,Louisiana,22,Pointe Coupee,077
+ILVO,United States,Louisiana,22,Rapides,079
+ILVO,United States,Louisiana,22,Red River,081
+ILVO,United States,Louisiana,22,Richland,083
+ILVO,United States,Louisiana,22,Sabine,085
+ILVO,United States,Louisiana,22,St. Bernard,087
+ILVO,United States,Louisiana,22,St. Charles,089
+ILVO,United States,Louisiana,22,St. Helena,091
+ILVO,United States,Louisiana,22,St. Landry,097
+ILVO,United States,Louisiana,22,St. Mary,101
+ILVO,United States,Louisiana,22,St. Tammany,103
+ILVO,United States,Louisiana,22,Tangipahoa,105
+ILVO,United States,Louisiana,22,Terrebonne,109
+ILVO,United States,Louisiana,22,Union,111
+ILVO,United States,Louisiana,22,Vermilion,113
+ILVO,United States,Louisiana,22,Vernon,115
+ILVO,United States,Louisiana,22,Washington,117
+ILVO,United States,Louisiana,22,Webster,119
+ILVO,United States,Louisiana,22,West Feliciana,125
+ILVO,United States,Louisiana,22,Winn,127
+ILVO,United States,Mississippi,28,,
+ILVO,United States,Mississippi,28,Amite,005
+ILVO,United States,Mississippi,28,Clarke,023
+ILVO,United States,Mississippi,28,Covington,031
+ILVO,United States,Mississippi,28,Forrest,035
+ILVO,United States,Mississippi,28,Franklin,037
+ILVO,United States,Mississippi,28,George,039
+ILVO,United States,Mississippi,28,Greene,041
+ILVO,United States,Mississippi,28,Hancock,045
+ILVO,United States,Mississippi,28,Harrison,047
+ILVO,United States,Mississippi,28,Jackson,059
+ILVO,United States,Mississippi,28,Jefferson Davis,065
+ILVO,United States,Mississippi,28,Jones,067
+ILVO,United States,Mississippi,28,Lamar,073
+ILVO,United States,Mississippi,28,Lauderdale,075
+ILVO,United States,Mississippi,28,Lawrence,077
+ILVO,United States,Mississippi,28,Lincoln,085
+ILVO,United States,Mississippi,28,Madison,089
+ILVO,United States,Mississippi,28,Marion,091
+ILVO,United States,Mississippi,28,Pearl River,109
+ILVO,United States,Mississippi,28,Perry,111
+ILVO,United States,Mississippi,28,Pike,113
+ILVO,United States,Mississippi,28,Simpson,127
+ILVO,United States,Mississippi,28,Smith,129
+ILVO,United States,Mississippi,28,Stone,131
+ILVO,United States,Mississippi,28,Walthall,147
+ILVO,United States,Mississippi,28,Washington,151
+ILVO,United States,Mississippi,28,Wayne,153
+ILVO,United States,North Carolina,37,,
+ILVO,United States,North Carolina,37,Brunswick,019
+ILVO,United States,North Carolina,37,Camden,029
+ILVO,United States,North Carolina,37,Carteret,031
+ILVO,United States,North Carolina,37,Currituck,053
+ILVO,United States,North Carolina,37,Dare,055
+ILVO,United States,North Carolina,37,Hyde,095
+ILVO,United States,North Carolina,37,New Hanover,129
+ILVO,United States,North Carolina,37,Onslow,133
+ILVO,United States,North Carolina,37,Pender,141
+ILVO,United States,North Carolina,37,Pitt,147
+ILVO,United States,Oklahoma,40,,
+ILVO,United States,South Carolina,45,,
+ILVO,United States,South Carolina,45,Aiken,003
+ILVO,United States,South Carolina,45,Beaufort,013
+ILVO,United States,South Carolina,45,Berkeley,015
+ILVO,United States,South Carolina,45,Calhoun,017
+ILVO,United States,South Carolina,45,Charleston,019
+ILVO,United States,South Carolina,45,Georgetown,043
+ILVO,United States,South Carolina,45,Hampton,049
+ILVO,United States,South Carolina,45,Horry,051
+ILVO,United States,South Carolina,45,Jasper,053
+ILVO,United States,South Carolina,45,Lexington,063
+ILVO,United States,Texas,48,,
+ILVO,United States,Texas,48,Angelina,005
+ILVO,United States,Texas,48,Aransas,007
+ILVO,United States,Texas,48,Austin,015
+ILVO,United States,Texas,48,Bastrop,021
+ILVO,United States,Texas,48,Blanco,031
+ILVO,United States,Texas,48,Brazoria,039
+ILVO,United States,Texas,48,Brazos,041
+ILVO,United States,Texas,48,Caldwell,055
+ILVO,United States,Texas,48,Calhoun,057
+ILVO,United States,Texas,48,Chambers,071
+ILVO,United States,Texas,48,Colorado,089
+ILVO,United States,Texas,48,Comal,091
+ILVO,United States,Texas,48,Dallas,113
+ILVO,United States,Texas,48,DeWitt,123
+ILVO,United States,Texas,48,Fannin,147
+ILVO,United States,Texas,48,Fayette,149
+ILVO,United States,Texas,48,Freestone,161
+ILVO,United States,Texas,48,Galveston,167
+ILVO,United States,Texas,48,Gonzales,177
+ILVO,United States,Texas,48,Hardin,199
+ILVO,United States,Texas,48,Harris,201
+ILVO,United States,Texas,48,Houston,225
+ILVO,United States,Texas,48,Jackson,239
+ILVO,United States,Texas,48,Jasper,241
+ILVO,United States,Texas,48,Jefferson,245
+ILVO,United States,Texas,48,Karnes,255
+ILVO,United States,Texas,48,Lamar,277
+ILVO,United States,Texas,48,Liberty,291
+ILVO,United States,Texas,48,Matagorda,321
+ILVO,United States,Texas,48,McLennan,309
+ILVO,United States,Texas,48,Montgomery,339
+ILVO,United States,Texas,48,Newton,351
+ILVO,United States,Texas,48,Nueces,355
+ILVO,United States,Texas,48,Orange,361
+ILVO,United States,Texas,48,Polk,373
+ILVO,United States,Texas,48,Robertson,395
+ILVO,United States,Texas,48,Sabine,403
+ILVO,United States,Texas,48,San Augustine,405
+ILVO,United States,Texas,48,San Jacinto,407
+ILVO,United States,Texas,48,San Patricio,409
+ILVO,United States,Texas,48,Smith,423
+ILVO,United States,Texas,48,Tarrant,439
+ILVO,United States,Texas,48,Travis,453
+ILVO,United States,Texas,48,Tyler,457
+ILVO,United States,Texas,48,Upshur,459
+ILVO,United States,Texas,48,Victoria,469
+ILVO,United States,Texas,48,Walker,471
+ILVO,United States,Texas,48,Waller,473
+ILVO,United States,Texas,48,Washington,477
+ILVO,United States,Texas,48,Wharton,481
+ILVO,United States,Virginia,51,,
+ILVO,United States,Virginia,51,Chesapeake,550
+ILVO,United States,Virginia,51,Mathews,115
+ILVO,United States,Virginia,51,Northampton,131
+ILVO,United States,Virginia,51,Virginia Beach,810

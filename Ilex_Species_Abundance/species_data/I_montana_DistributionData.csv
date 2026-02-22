@@ -1,0 +1,245 @@
+﻿Symbol,Country,State,State FIP,County,County FIP
+ILMO,United States,Alabama,01,,
+ILMO,United States,Connecticut,09,,
+ILMO,United States,Connecticut,09,New London,011
+ILMO,United States,Georgia,13,,
+ILMO,United States,Kentucky,21,,
+ILMO,United States,Kentucky,21,Bell,013
+ILMO,United States,Kentucky,21,Edmonson,061
+ILMO,United States,Kentucky,21,Elliott,063
+ILMO,United States,Kentucky,21,Harlan,095
+ILMO,United States,Kentucky,21,Jackson,109
+ILMO,United States,Kentucky,21,Lewis,135
+ILMO,United States,Kentucky,21,McCreary,147
+ILMO,United States,Kentucky,21,Menifee,165
+ILMO,United States,Kentucky,21,Morgan,175
+ILMO,United States,Kentucky,21,Powell,197
+ILMO,United States,Kentucky,21,Rowan,205
+ILMO,United States,Kentucky,21,Wolfe,237
+ILMO,United States,Maryland,24,,
+ILMO,United States,Massachusetts,25,,
+ILMO,United States,Massachusetts,25,Barnstable,001
+ILMO,United States,Massachusetts,25,Berkshire,003
+ILMO,United States,Massachusetts,25,Bristol,005
+ILMO,United States,Massachusetts,25,Dukes,007
+ILMO,United States,Massachusetts,25,Essex,009
+ILMO,United States,Massachusetts,25,Nantucket,019
+ILMO,United States,Massachusetts,25,Norfolk,021
+ILMO,United States,Massachusetts,25,Plymouth,023
+ILMO,United States,New Jersey,34,,
+ILMO,United States,New Jersey,34,Morris,027
+ILMO,United States,New Jersey,34,Passaic,031
+ILMO,United States,New Jersey,34,Sussex,037
+ILMO,United States,New Jersey,34,Warren,041
+ILMO,United States,New York,36,,
+ILMO,United States,New York,36,Broome,007
+ILMO,United States,New York,36,Cattaraugus,009
+ILMO,United States,New York,36,Delaware,025
+ILMO,United States,New York,36,Fulton,035
+ILMO,United States,New York,36,Greene,039
+ILMO,United States,New York,36,Nassau,059
+ILMO,United States,New York,36,New York,061
+ILMO,United States,New York,36,Orange,071
+ILMO,United States,New York,36,Rockland,087
+ILMO,United States,New York,36,Suffolk,103
+ILMO,United States,New York,36,Sullivan,105
+ILMO,United States,New York,36,Ulster,111
+ILMO,United States,North Carolina,37,,
+ILMO,United States,North Carolina,37,Alexander,003
+ILMO,United States,North Carolina,37,Alleghany,005
+ILMO,United States,North Carolina,37,Ashe,009
+ILMO,United States,North Carolina,37,Avery,011
+ILMO,United States,North Carolina,37,Buncombe,021
+ILMO,United States,North Carolina,37,Burke,023
+ILMO,United States,North Carolina,37,Caldwell,027
+ILMO,United States,North Carolina,37,Catawba,035
+ILMO,United States,North Carolina,37,Cherokee,039
+ILMO,United States,North Carolina,37,Clay,043
+ILMO,United States,North Carolina,37,Cumberland,051
+ILMO,United States,North Carolina,37,Davidson,057
+ILMO,United States,North Carolina,37,Durham,063
+ILMO,United States,North Carolina,37,Edgecombe,065
+ILMO,United States,North Carolina,37,Forsyth,067
+ILMO,United States,North Carolina,37,Graham,075
+ILMO,United States,North Carolina,37,Granville,077
+ILMO,United States,North Carolina,37,Guilford,081
+ILMO,United States,North Carolina,37,Haywood,087
+ILMO,United States,North Carolina,37,Iredell,097
+ILMO,United States,North Carolina,37,Jackson,099
+ILMO,United States,North Carolina,37,Lee,105
+ILMO,United States,North Carolina,37,Lenoir,107
+ILMO,United States,North Carolina,37,Macon,113
+ILMO,United States,North Carolina,37,Madison,115
+ILMO,United States,North Carolina,37,Martin,117
+ILMO,United States,North Carolina,37,McDowell,111
+ILMO,United States,North Carolina,37,Mitchell,121
+ILMO,United States,North Carolina,37,Northampton,131
+ILMO,United States,North Carolina,37,Orange,135
+ILMO,United States,North Carolina,37,Pitt,147
+ILMO,United States,North Carolina,37,Randolph,151
+ILMO,United States,North Carolina,37,Rockingham,157
+ILMO,United States,North Carolina,37,Stokes,169
+ILMO,United States,North Carolina,37,Surry,171
+ILMO,United States,North Carolina,37,Swain,173
+ILMO,United States,North Carolina,37,Transylvania,175
+ILMO,United States,North Carolina,37,Wake,183
+ILMO,United States,North Carolina,37,Watauga,189
+ILMO,United States,North Carolina,37,Wayne,191
+ILMO,United States,North Carolina,37,Wilkes,193
+ILMO,United States,Pennsylvania,42,,
+ILMO,United States,Pennsylvania,42,Adams,001
+ILMO,United States,Pennsylvania,42,Allegheny,003
+ILMO,United States,Pennsylvania,42,Bedford,009
+ILMO,United States,Pennsylvania,42,Berks,011
+ILMO,United States,Pennsylvania,42,Blair,013
+ILMO,United States,Pennsylvania,42,Bradford,015
+ILMO,United States,Pennsylvania,42,Butler,019
+ILMO,United States,Pennsylvania,42,Cambria,021
+ILMO,United States,Pennsylvania,42,Cameron,023
+ILMO,United States,Pennsylvania,42,Carbon,025
+ILMO,United States,Pennsylvania,42,Centre,027
+ILMO,United States,Pennsylvania,42,Clarion,031
+ILMO,United States,Pennsylvania,42,Clearfield,033
+ILMO,United States,Pennsylvania,42,Clinton,035
+ILMO,United States,Pennsylvania,42,Columbia,037
+ILMO,United States,Pennsylvania,42,Crawford,039
+ILMO,United States,Pennsylvania,42,Elk,047
+ILMO,United States,Pennsylvania,42,Fayette,051
+ILMO,United States,Pennsylvania,42,Forest,053
+ILMO,United States,Pennsylvania,42,Franklin,055
+ILMO,United States,Pennsylvania,42,Fulton,057
+ILMO,United States,Pennsylvania,42,Greene,059
+ILMO,United States,Pennsylvania,42,Huntingdon,061
+ILMO,United States,Pennsylvania,42,Indiana,063
+ILMO,United States,Pennsylvania,42,Jefferson,065
+ILMO,United States,Pennsylvania,42,Juniata,067
+ILMO,United States,Pennsylvania,42,Lackawanna,069
+ILMO,United States,Pennsylvania,42,Lawrence,073
+ILMO,United States,Pennsylvania,42,Lebanon,075
+ILMO,United States,Pennsylvania,42,Lehigh,077
+ILMO,United States,Pennsylvania,42,Luzerne,079
+ILMO,United States,Pennsylvania,42,Lycoming,081
+ILMO,United States,Pennsylvania,42,McKean,083
+ILMO,United States,Pennsylvania,42,Mercer,085
+ILMO,United States,Pennsylvania,42,Mifflin,087
+ILMO,United States,Pennsylvania,42,Monroe,089
+ILMO,United States,Pennsylvania,42,Northampton,095
+ILMO,United States,Pennsylvania,42,Northumberland,097
+ILMO,United States,Pennsylvania,42,Pike,103
+ILMO,United States,Pennsylvania,42,Potter,105
+ILMO,United States,Pennsylvania,42,Schuylkill,107
+ILMO,United States,Pennsylvania,42,Snyder,109
+ILMO,United States,Pennsylvania,42,Somerset,111
+ILMO,United States,Pennsylvania,42,Sullivan,113
+ILMO,United States,Pennsylvania,42,Susquehanna,115
+ILMO,United States,Pennsylvania,42,Tioga,117
+ILMO,United States,Pennsylvania,42,Union,119
+ILMO,United States,Pennsylvania,42,Venango,121
+ILMO,United States,Pennsylvania,42,Warren,123
+ILMO,United States,Pennsylvania,42,Wayne,127
+ILMO,United States,Pennsylvania,42,Westmoreland,129
+ILMO,United States,Pennsylvania,42,Wyoming,131
+ILMO,United States,South Carolina,45,,
+ILMO,United States,South Carolina,45,Aiken,003
+ILMO,United States,South Carolina,45,Cherokee,021
+ILMO,United States,South Carolina,45,Darlington,031
+ILMO,United States,South Carolina,45,Edgefield,037
+ILMO,United States,South Carolina,45,Greenville,045
+ILMO,United States,South Carolina,45,McCormick,065
+ILMO,United States,South Carolina,45,Oconee,073
+ILMO,United States,South Carolina,45,Richland,079
+ILMO,United States,South Carolina,45,Sumter,085
+ILMO,United States,Tennessee,47,,
+ILMO,United States,Tennessee,47,Anderson,001
+ILMO,United States,Tennessee,47,Blount,009
+ILMO,United States,Tennessee,47,Campbell,013
+ILMO,United States,Tennessee,47,Carter,019
+ILMO,United States,Tennessee,47,Cocke,029
+ILMO,United States,Tennessee,47,Cumberland,035
+ILMO,United States,Tennessee,47,Fentress,049
+ILMO,United States,Tennessee,47,Franklin,051
+ILMO,United States,Tennessee,47,Grainger,057
+ILMO,United States,Tennessee,47,Greene,059
+ILMO,United States,Tennessee,47,Grundy,061
+ILMO,United States,Tennessee,47,Hardin,071
+ILMO,United States,Tennessee,47,Hawkins,073
+ILMO,United States,Tennessee,47,Johnson,091
+ILMO,United States,Tennessee,47,Knox,093
+ILMO,United States,Tennessee,47,Monroe,123
+ILMO,United States,Tennessee,47,Morgan,129
+ILMO,United States,Tennessee,47,Overton,133
+ILMO,United States,Tennessee,47,Polk,139
+ILMO,United States,Tennessee,47,Rhea,143
+ILMO,United States,Tennessee,47,Sequatchie,153
+ILMO,United States,Tennessee,47,Sevier,155
+ILMO,United States,Tennessee,47,Sullivan,163
+ILMO,United States,Tennessee,47,Unicoi,171
+ILMO,United States,Tennessee,47,Union,173
+ILMO,United States,Tennessee,47,Van Buren,175
+ILMO,United States,Tennessee,47,Warren,177
+ILMO,United States,Tennessee,47,Washington,179
+ILMO,United States,Virginia,51,,
+ILMO,United States,Virginia,51,Albemarle,003
+ILMO,United States,Virginia,51,Alleghany,005
+ILMO,United States,Virginia,51,Amherst,009
+ILMO,United States,Virginia,51,Appomattox,011
+ILMO,United States,Virginia,51,Augusta,015
+ILMO,United States,Virginia,51,Bath,017
+ILMO,United States,Virginia,51,Bedford,019
+ILMO,United States,Virginia,51,Bland,021
+ILMO,United States,Virginia,51,Botetourt,023
+ILMO,United States,Virginia,51,Buchanan,027
+ILMO,United States,Virginia,51,Buckingham,029
+ILMO,United States,Virginia,51,Carroll,035
+ILMO,United States,Virginia,51,Craig,045
+ILMO,United States,Virginia,51,Dickenson,051
+ILMO,United States,Virginia,51,Fauquier,061
+ILMO,United States,Virginia,51,Floyd,063
+ILMO,United States,Virginia,51,Franklin,067
+ILMO,United States,Virginia,51,Frederick,069
+ILMO,United States,Virginia,51,Giles,071
+ILMO,United States,Virginia,51,Grayson,077
+ILMO,United States,Virginia,51,Greene,079
+ILMO,United States,Virginia,51,Henry,089
+ILMO,United States,Virginia,51,Highland,091
+ILMO,United States,Virginia,51,Lee,105
+ILMO,United States,Virginia,51,Louisa,109
+ILMO,United States,Virginia,51,Madison,113
+ILMO,United States,Virginia,51,Montgomery,121
+ILMO,United States,Virginia,51,Nelson,125
+ILMO,United States,Virginia,51,Page,139
+ILMO,United States,Virginia,51,Patrick,141
+ILMO,United States,Virginia,51,Pittsylvania,143
+ILMO,United States,Virginia,51,Rappahannock,157
+ILMO,United States,Virginia,51,Roanoke,161
+ILMO,United States,Virginia,51,Rockbridge,163
+ILMO,United States,Virginia,51,Rockingham,165
+ILMO,United States,Virginia,51,Russell,167
+ILMO,United States,Virginia,51,Scott,169
+ILMO,United States,Virginia,51,Shenandoah,171
+ILMO,United States,Virginia,51,Smyth,173
+ILMO,United States,Virginia,51,Tazewell,185
+ILMO,United States,Virginia,51,Warren,187
+ILMO,United States,Virginia,51,Washington,191
+ILMO,United States,Virginia,51,Wise,195
+ILMO,United States,Virginia,51,Wythe,197
+ILMO,United States,West Virginia,54,,
+ILMO,United States,West Virginia,54,Braxton,007
+ILMO,United States,West Virginia,54,Fayette,019
+ILMO,United States,West Virginia,54,Grant,023
+ILMO,United States,West Virginia,54,Greenbrier,025
+ILMO,United States,West Virginia,54,Hampshire,027
+ILMO,United States,West Virginia,54,Hardy,031
+ILMO,United States,West Virginia,54,Jefferson,037
+ILMO,United States,West Virginia,54,Mercer,055
+ILMO,United States,West Virginia,54,Mineral,057
+ILMO,United States,West Virginia,54,Monongalia,061
+ILMO,United States,West Virginia,54,Nicholas,067
+ILMO,United States,West Virginia,54,Pendleton,071
+ILMO,United States,West Virginia,54,Pocahontas,075
+ILMO,United States,West Virginia,54,Preston,077
+ILMO,United States,West Virginia,54,Raleigh,081
+ILMO,United States,West Virginia,54,Randolph,083
+ILMO,United States,West Virginia,54,Summers,089
+ILMO,United States,West Virginia,54,Tucker,093
+ILMO,United States,West Virginia,54,Webster,101

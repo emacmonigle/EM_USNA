@@ -1,0 +1,131 @@
+﻿Symbol,Country,State,State FIP,County,County FIP
+ILLA,United States,Connecticut,09,,
+ILLA,United States,Connecticut,09,Fairfield,001
+ILLA,United States,Connecticut,09,Hartford,003
+ILLA,United States,Connecticut,09,Litchfield,005
+ILLA,United States,Connecticut,09,New Haven,009
+ILLA,United States,Connecticut,09,New London,011
+ILLA,United States,Connecticut,09,Tolland,013
+ILLA,United States,Delaware,10,,
+ILLA,United States,Delaware,10,Kent,001
+ILLA,United States,Delaware,10,New Castle,003
+ILLA,United States,District of Columbia,11,,
+ILLA,United States,District of Columbia,11,District of Columbia,001
+ILLA,United States,Georgia,13,,
+ILLA,United States,Maine,23,,
+ILLA,United States,Maine,23,Cumberland,005
+ILLA,United States,Maine,23,York,031
+ILLA,United States,Maryland,24,,
+ILLA,United States,Massachusetts,25,,
+ILLA,United States,Massachusetts,25,Barnstable,001
+ILLA,United States,Massachusetts,25,Berkshire,003
+ILLA,United States,Massachusetts,25,Bristol,005
+ILLA,United States,Massachusetts,25,Essex,009
+ILLA,United States,Massachusetts,25,Franklin,011
+ILLA,United States,Massachusetts,25,Hampden,013
+ILLA,United States,Massachusetts,25,Hampshire,015
+ILLA,United States,Massachusetts,25,Middlesex,017
+ILLA,United States,Massachusetts,25,Norfolk,021
+ILLA,United States,Massachusetts,25,Plymouth,023
+ILLA,United States,Massachusetts,25,Suffolk,025
+ILLA,United States,Massachusetts,25,Worcester,027
+ILLA,United States,New Hampshire,33,,
+ILLA,United States,New Hampshire,33,Belknap,001
+ILLA,United States,New Hampshire,33,Carroll,003
+ILLA,United States,New Hampshire,33,Cheshire,005
+ILLA,United States,New Hampshire,33,Hillsborough,011
+ILLA,United States,New Hampshire,33,Merrimack,013
+ILLA,United States,New Hampshire,33,Rockingham,015
+ILLA,United States,New Hampshire,33,Strafford,017
+ILLA,United States,New Hampshire,33,Sullivan,019
+ILLA,United States,New Jersey,34,,
+ILLA,United States,New Jersey,34,Atlantic,001
+ILLA,United States,New Jersey,34,Bergen,003
+ILLA,United States,New Jersey,34,Burlington,005
+ILLA,United States,New Jersey,34,Camden,007
+ILLA,United States,New Jersey,34,Cape May,009
+ILLA,United States,New Jersey,34,Cumberland,011
+ILLA,United States,New Jersey,34,Essex,013
+ILLA,United States,New Jersey,34,Gloucester,015
+ILLA,United States,New Jersey,34,Hudson,017
+ILLA,United States,New Jersey,34,Mercer,021
+ILLA,United States,New Jersey,34,Middlesex,023
+ILLA,United States,New Jersey,34,Monmouth,025
+ILLA,United States,New Jersey,34,Morris,027
+ILLA,United States,New Jersey,34,Ocean,029
+ILLA,United States,New Jersey,34,Salem,033
+ILLA,United States,New Jersey,34,Somerset,035
+ILLA,United States,New Jersey,34,Sussex,037
+ILLA,United States,New Jersey,34,Union,039
+ILLA,United States,New Jersey,34,Warren,041
+ILLA,United States,New York,36,,
+ILLA,United States,New York,36,Albany,001
+ILLA,United States,New York,36,Bronx,005
+ILLA,United States,New York,36,Columbia,021
+ILLA,United States,New York,36,Delaware,025
+ILLA,United States,New York,36,Greene,039
+ILLA,United States,New York,36,Kings,047
+ILLA,United States,New York,36,Nassau,059
+ILLA,United States,New York,36,Orange,071
+ILLA,United States,New York,36,Putnam,079
+ILLA,United States,New York,36,Queens,081
+ILLA,United States,New York,36,Richmond,085
+ILLA,United States,New York,36,Suffolk,103
+ILLA,United States,New York,36,Sullivan,105
+ILLA,United States,New York,36,Ulster,111
+ILLA,United States,New York,36,Warren,113
+ILLA,United States,New York,36,Washington,115
+ILLA,United States,New York,36,Westchester,119
+ILLA,United States,North Carolina,37,,
+ILLA,United States,North Carolina,37,Bladen,017
+ILLA,United States,North Carolina,37,Brunswick,019
+ILLA,United States,North Carolina,37,Chowan,041
+ILLA,United States,North Carolina,37,Craven,049
+ILLA,United States,North Carolina,37,Cumberland,051
+ILLA,United States,North Carolina,37,Gates,073
+ILLA,United States,North Carolina,37,Greene,079
+ILLA,United States,North Carolina,37,Harnett,085
+ILLA,United States,North Carolina,37,Hertford,091
+ILLA,United States,North Carolina,37,Hoke,093
+ILLA,United States,North Carolina,37,Johnston,101
+ILLA,United States,North Carolina,37,Jones,103
+ILLA,United States,North Carolina,37,Lee,105
+ILLA,United States,North Carolina,37,Lenoir,107
+ILLA,United States,North Carolina,37,Montgomery,123
+ILLA,United States,North Carolina,37,Richmond,153
+ILLA,United States,North Carolina,37,Robeson,155
+ILLA,United States,North Carolina,37,Scotland,165
+ILLA,United States,North Carolina,37,Wayne,191
+ILLA,United States,North Carolina,37,Wilson,195
+ILLA,United States,Pennsylvania,42,,
+ILLA,United States,Pennsylvania,42,Berks,011
+ILLA,United States,Pennsylvania,42,Bucks,017
+ILLA,United States,Pennsylvania,42,Carbon,025
+ILLA,United States,Pennsylvania,42,Columbia,037
+ILLA,United States,Pennsylvania,42,Fayette,051
+ILLA,United States,Pennsylvania,42,Lackawanna,069
+ILLA,United States,Pennsylvania,42,Lancaster,071
+ILLA,United States,Pennsylvania,42,Lehigh,077
+ILLA,United States,Pennsylvania,42,Luzerne,079
+ILLA,United States,Pennsylvania,42,Monroe,089
+ILLA,United States,Pennsylvania,42,Northampton,095
+ILLA,United States,Pennsylvania,42,Pike,103
+ILLA,United States,Pennsylvania,42,Schuylkill,107
+ILLA,United States,Rhode Island,44,,
+ILLA,United States,Rhode Island,44,Kent,003
+ILLA,United States,Rhode Island,44,Newport,005
+ILLA,United States,Rhode Island,44,Washington,009
+ILLA,United States,South Carolina,45,,
+ILLA,United States,South Carolina,45,Darlington,031
+ILLA,United States,Virginia,51,,
+ILLA,United States,Virginia,51,Caroline,033
+ILLA,United States,Virginia,51,Chesapeake ,550
+ILLA,United States,Virginia,51,Greensville,081
+ILLA,United States,Virginia,51,Isle of Wight,093
+ILLA,United States,Virginia,51,James City,095
+ILLA,United States,Virginia,51,King William,101
+ILLA,United States,Virginia,51,New Kent,127
+ILLA,United States,Virginia,51,Prince George,149
+ILLA,United States,Virginia,51,Southampton,175
+ILLA,United States,Virginia,51,Suffolk ,800
+ILLA,United States,Virginia,51,Virginia Beach ,810

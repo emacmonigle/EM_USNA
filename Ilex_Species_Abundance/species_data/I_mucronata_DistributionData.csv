@@ -1,0 +1,318 @@
+﻿Symbol,Country,State,State FIP,County,County FIP
+ILMU,Canada,New Brunswick,04,,
+ILMU,Canada,Nova Scotia,07,,
+ILMU,Canada,Ontario,08,,
+ILMU,Canada,Prince Edward Island,09,,
+ILMU,United States,Connecticut,09,,
+ILMU,United States,Connecticut,09,Fairfield,001
+ILMU,United States,Connecticut,09,Hartford,003
+ILMU,United States,Connecticut,09,Litchfield,005
+ILMU,United States,Connecticut,09,Middlesex,007
+ILMU,United States,Connecticut,09,New Haven,009
+ILMU,United States,Connecticut,09,New London,011
+ILMU,United States,Connecticut,09,Tolland,013
+ILMU,United States,Connecticut,09,Windham,015
+ILMU,Canada,Quebec,10,,
+ILMU,United States,Illinois,17,,
+ILMU,United States,Illinois,17,Cook,031
+ILMU,United States,Indiana,18,,
+ILMU,United States,Indiana,18,Allen,003
+ILMU,United States,Indiana,18,Fulton,049
+ILMU,United States,Indiana,18,Kosciusko,085
+ILMU,United States,Indiana,18,Lagrange,087
+ILMU,United States,Indiana,18,Lake,089
+ILMU,United States,Indiana,18,LaPorte,091
+ILMU,United States,Indiana,18,Marshall,099
+ILMU,United States,Indiana,18,Noble,113
+ILMU,United States,Indiana,18,Porter,127
+ILMU,United States,Indiana,18,St. Joseph,141
+ILMU,United States,Indiana,18,Starke,149
+ILMU,United States,Indiana,18,Steuben,151
+ILMU,United States,Indiana,18,Whitley,183
+ILMU,United States,Maine,23,,
+ILMU,United States,Maine,23,Androscoggin,001
+ILMU,United States,Maine,23,Aroostook,003
+ILMU,United States,Maine,23,Cumberland,005
+ILMU,United States,Maine,23,Franklin,007
+ILMU,United States,Maine,23,Hancock,009
+ILMU,United States,Maine,23,Kennebec,011
+ILMU,United States,Maine,23,Knox,013
+ILMU,United States,Maine,23,Lincoln,015
+ILMU,United States,Maine,23,Oxford,017
+ILMU,United States,Maine,23,Penobscot,019
+ILMU,United States,Maine,23,Piscataquis,021
+ILMU,United States,Maine,23,Sagadahoc,023
+ILMU,United States,Maine,23,Somerset,025
+ILMU,United States,Maine,23,Waldo,027
+ILMU,United States,Maine,23,Washington,029
+ILMU,United States,Maine,23,York,031
+ILMU,United States,Maryland,24,,
+ILMU,United States,Massachusetts,25,,
+ILMU,United States,Massachusetts,25,Barnstable,001
+ILMU,United States,Massachusetts,25,Berkshire,003
+ILMU,United States,Massachusetts,25,Bristol,005
+ILMU,United States,Massachusetts,25,Essex,009
+ILMU,United States,Massachusetts,25,Franklin,011
+ILMU,United States,Massachusetts,25,Hampden,013
+ILMU,United States,Massachusetts,25,Hampshire,015
+ILMU,United States,Massachusetts,25,Middlesex,017
+ILMU,United States,Massachusetts,25,Norfolk,021
+ILMU,United States,Massachusetts,25,Plymouth,023
+ILMU,United States,Massachusetts,25,Suffolk,025
+ILMU,United States,Massachusetts,25,Worcester,027
+ILMU,United States,Michigan,26,,
+ILMU,United States,Michigan,26,Alcona,001
+ILMU,United States,Michigan,26,Alger,003
+ILMU,United States,Michigan,26,Antrim,009
+ILMU,United States,Michigan,26,Arenac,011
+ILMU,United States,Michigan,26,Baraga,013
+ILMU,United States,Michigan,26,Barry,015
+ILMU,United States,Michigan,26,Benzie,019
+ILMU,United States,Michigan,26,Berrien,021
+ILMU,United States,Michigan,26,Calhoun,025
+ILMU,United States,Michigan,26,Cass,027
+ILMU,United States,Michigan,26,Charlevoix,029
+ILMU,United States,Michigan,26,Cheboygan,031
+ILMU,United States,Michigan,26,Chippewa,033
+ILMU,United States,Michigan,26,Clare,035
+ILMU,United States,Michigan,26,Crawford,039
+ILMU,United States,Michigan,26,Delta,041
+ILMU,United States,Michigan,26,Dickinson,043
+ILMU,United States,Michigan,26,Emmet,047
+ILMU,United States,Michigan,26,Gladwin,051
+ILMU,United States,Michigan,26,Gogebic,053
+ILMU,United States,Michigan,26,Gratiot,057
+ILMU,United States,Michigan,26,Houghton,061
+ILMU,United States,Michigan,26,Huron,063
+ILMU,United States,Michigan,26,Ingham,065
+ILMU,United States,Michigan,26,Iosco,069
+ILMU,United States,Michigan,26,Iron,071
+ILMU,United States,Michigan,26,Jackson,075
+ILMU,United States,Michigan,26,Kalamazoo,077
+ILMU,United States,Michigan,26,Kalkaska,079
+ILMU,United States,Michigan,26,Kent,081
+ILMU,United States,Michigan,26,Keweenaw,083
+ILMU,United States,Michigan,26,Lake,085
+ILMU,United States,Michigan,26,Lapeer,087
+ILMU,United States,Michigan,26,Leelanau,089
+ILMU,United States,Michigan,26,Livingston,093
+ILMU,United States,Michigan,26,Luce,095
+ILMU,United States,Michigan,26,Mackinac,097
+ILMU,United States,Michigan,26,Manistee,101
+ILMU,United States,Michigan,26,Marquette,103
+ILMU,United States,Michigan,26,Mason,105
+ILMU,United States,Michigan,26,Menominee,109
+ILMU,United States,Michigan,26,Midland,111
+ILMU,United States,Michigan,26,Missaukee,113
+ILMU,United States,Michigan,26,Montcalm,117
+ILMU,United States,Michigan,26,Montmorency,119
+ILMU,United States,Michigan,26,Muskegon,121
+ILMU,United States,Michigan,26,Newaygo,123
+ILMU,United States,Michigan,26,Oakland,125
+ILMU,United States,Michigan,26,Oceana,127
+ILMU,United States,Michigan,26,Ontonagon,131
+ILMU,United States,Michigan,26,Osceola,133
+ILMU,United States,Michigan,26,Oscoda,135
+ILMU,United States,Michigan,26,Roscommon,143
+ILMU,United States,Michigan,26,Schoolcraft,153
+ILMU,United States,Michigan,26,St. Clair,147
+ILMU,United States,Michigan,26,St. Joseph,149
+ILMU,United States,Michigan,26,Van Buren,159
+ILMU,United States,Michigan,26,Washtenaw,161
+ILMU,United States,Michigan,26,Wexford,165
+ILMU,United States,Minnesota,27,,
+ILMU,United States,Minnesota,27,Anoka,003
+ILMU,United States,Minnesota,27,Carlton,017
+ILMU,United States,Minnesota,27,Chisago,025
+ILMU,United States,Minnesota,27,Hennepin,053
+ILMU,United States,Minnesota,27,Isanti,059
+ILMU,United States,Minnesota,27,Pine,115
+ILMU,United States,Minnesota,27,Ramsey,123
+ILMU,United States,Minnesota,27,Wabasha,157
+ILMU,United States,New Hampshire,33,,
+ILMU,United States,New Hampshire,33,Belknap,001
+ILMU,United States,New Hampshire,33,Carroll,003
+ILMU,United States,New Hampshire,33,Cheshire,005
+ILMU,United States,New Hampshire,33,Coos,007
+ILMU,United States,New Hampshire,33,Grafton,009
+ILMU,United States,New Hampshire,33,Hillsborough,011
+ILMU,United States,New Hampshire,33,Merrimack,013
+ILMU,United States,New Hampshire,33,Rockingham,015
+ILMU,United States,New Hampshire,33,Strafford,017
+ILMU,United States,New Hampshire,33,Sullivan,019
+ILMU,United States,New Jersey,34,,
+ILMU,United States,New Jersey,34,Atlantic,001
+ILMU,United States,New Jersey,34,Camden,007
+ILMU,United States,New Jersey,34,Cape May,009
+ILMU,United States,New Jersey,34,Essex,013
+ILMU,United States,New Jersey,34,Gloucester,015
+ILMU,United States,New Jersey,34,Hudson,017
+ILMU,United States,New Jersey,34,Hunterdon,019
+ILMU,United States,New Jersey,34,Mercer,021
+ILMU,United States,New Jersey,34,Middlesex,023
+ILMU,United States,New Jersey,34,Monmouth,025
+ILMU,United States,New Jersey,34,Morris,027
+ILMU,United States,New Jersey,34,Ocean,029
+ILMU,United States,New Jersey,34,Passaic,031
+ILMU,United States,New Jersey,34,Somerset,035
+ILMU,United States,New Jersey,34,Sussex,037
+ILMU,United States,New Jersey,34,Union,039
+ILMU,United States,New Jersey,34,Warren,041
+ILMU,United States,New York,36,,
+ILMU,United States,New York,36,Albany,001
+ILMU,United States,New York,36,Cattaraugus,009
+ILMU,United States,New York,36,Cayuga,011
+ILMU,United States,New York,36,Chautauqua,013
+ILMU,United States,New York,36,Chemung,015
+ILMU,United States,New York,36,Chenango,017
+ILMU,United States,New York,36,Clinton,019
+ILMU,United States,New York,36,Columbia,021
+ILMU,United States,New York,36,Cortland,023
+ILMU,United States,New York,36,Delaware,025
+ILMU,United States,New York,36,Erie,029
+ILMU,United States,New York,36,Essex,031
+ILMU,United States,New York,36,Franklin,033
+ILMU,United States,New York,36,Genesee,037
+ILMU,United States,New York,36,Greene,039
+ILMU,United States,New York,36,Hamilton,041
+ILMU,United States,New York,36,Lewis,049
+ILMU,United States,New York,36,Madison,053
+ILMU,United States,New York,36,Nassau,059
+ILMU,United States,New York,36,Oneida,065
+ILMU,United States,New York,36,Onondaga,067
+ILMU,United States,New York,36,Ontario,069
+ILMU,United States,New York,36,Orange,071
+ILMU,United States,New York,36,Oswego,075
+ILMU,United States,New York,36,Otsego,077
+ILMU,United States,New York,36,Putnam,079
+ILMU,United States,New York,36,Queens,081
+ILMU,United States,New York,36,Rensselaer,083
+ILMU,United States,New York,36,Richmond,085
+ILMU,United States,New York,36,Rockland,087
+ILMU,United States,New York,36,Schenectady,093
+ILMU,United States,New York,36,St. Lawrence,089
+ILMU,United States,New York,36,Steuben,101
+ILMU,United States,New York,36,Suffolk,103
+ILMU,United States,New York,36,Sullivan,105
+ILMU,United States,New York,36,Tompkins,109
+ILMU,United States,New York,36,Ulster,111
+ILMU,United States,New York,36,Warren,113
+ILMU,United States,New York,36,Washington,115
+ILMU,United States,New York,36,Westchester,119
+ILMU,United States,New York,36,Wyoming,121
+ILMU,United States,Ohio,39,,
+ILMU,United States,Ohio,39,Ashland,005
+ILMU,United States,Ohio,39,Ashtabula,007
+ILMU,United States,Ohio,39,Cuyahoga,035
+ILMU,United States,Ohio,39,Defiance,039
+ILMU,United States,Ohio,39,Geauga,055
+ILMU,United States,Ohio,39,Lake,085
+ILMU,United States,Ohio,39,Lorain,093
+ILMU,United States,Ohio,39,Portage,133
+ILMU,United States,Ohio,39,Stark,151
+ILMU,United States,Ohio,39,Summit,153
+ILMU,United States,Ohio,39,Trumbull,155
+ILMU,United States,Ohio,39,Wayne,169
+ILMU,United States,Ohio,39,Williams,171
+ILMU,United States,Pennsylvania,42,,
+ILMU,United States,Pennsylvania,42,Adams,001
+ILMU,United States,Pennsylvania,42,Berks,011
+ILMU,United States,Pennsylvania,42,Bradford,015
+ILMU,United States,Pennsylvania,42,Butler,019
+ILMU,United States,Pennsylvania,42,Cameron,023
+ILMU,United States,Pennsylvania,42,Carbon,025
+ILMU,United States,Pennsylvania,42,Centre,027
+ILMU,United States,Pennsylvania,42,Clearfield,033
+ILMU,United States,Pennsylvania,42,Clinton,035
+ILMU,United States,Pennsylvania,42,Columbia,037
+ILMU,United States,Pennsylvania,42,Crawford,039
+ILMU,United States,Pennsylvania,42,Cumberland,041
+ILMU,United States,Pennsylvania,42,Dauphin,043
+ILMU,United States,Pennsylvania,42,Elk,047
+ILMU,United States,Pennsylvania,42,Erie,049
+ILMU,United States,Pennsylvania,42,Fayette,051
+ILMU,United States,Pennsylvania,42,Franklin,055
+ILMU,United States,Pennsylvania,42,Lackawanna,069
+ILMU,United States,Pennsylvania,42,Lehigh,077
+ILMU,United States,Pennsylvania,42,Luzerne,079
+ILMU,United States,Pennsylvania,42,Lycoming,081
+ILMU,United States,Pennsylvania,42,McKean,083
+ILMU,United States,Pennsylvania,42,Mercer,085
+ILMU,United States,Pennsylvania,42,Monroe,089
+ILMU,United States,Pennsylvania,42,Northampton,095
+ILMU,United States,Pennsylvania,42,Pike,103
+ILMU,United States,Pennsylvania,42,Schuylkill,107
+ILMU,United States,Pennsylvania,42,Snyder,109
+ILMU,United States,Pennsylvania,42,Somerset,111
+ILMU,United States,Pennsylvania,42,Sullivan,113
+ILMU,United States,Pennsylvania,42,Susquehanna,115
+ILMU,United States,Pennsylvania,42,Tioga,117
+ILMU,United States,Pennsylvania,42,Union,119
+ILMU,United States,Pennsylvania,42,Warren,123
+ILMU,United States,Pennsylvania,42,Wayne,127
+ILMU,United States,Rhode Island,44,,
+ILMU,United States,Rhode Island,44,Kent,003
+ILMU,United States,Rhode Island,44,Providence,007
+ILMU,United States,Rhode Island,44,Washington,009
+ILMU,United States,Vermont,50,,
+ILMU,United States,Vermont,50,Addison,001
+ILMU,United States,Vermont,50,Bennington,003
+ILMU,United States,Vermont,50,Caledonia,005
+ILMU,United States,Vermont,50,Chittenden,007
+ILMU,United States,Vermont,50,Essex,009
+ILMU,United States,Vermont,50,Franklin,011
+ILMU,United States,Vermont,50,Lamoille,015
+ILMU,United States,Vermont,50,Orange,017
+ILMU,United States,Vermont,50,Orleans,019
+ILMU,United States,Vermont,50,Rutland,021
+ILMU,United States,Vermont,50,Washington,023
+ILMU,United States,Vermont,50,Windham,025
+ILMU,United States,Vermont,50,Windsor,027
+ILMU,United States,West Virginia,54,,
+ILMU,United States,West Virginia,54,Grant,023
+ILMU,United States,West Virginia,54,Mineral,057
+ILMU,United States,West Virginia,54,Pendleton,071
+ILMU,United States,West Virginia,54,Preston,077
+ILMU,United States,West Virginia,54,Randolph,083
+ILMU,United States,West Virginia,54,Tucker,093
+ILMU,United States,Wisconsin,55,,
+ILMU,United States,Wisconsin,55,Adams,001
+ILMU,United States,Wisconsin,55,Ashland,003
+ILMU,United States,Wisconsin,55,Barron,005
+ILMU,United States,Wisconsin,55,Bayfield,007
+ILMU,United States,Wisconsin,55,Brown,009
+ILMU,United States,Wisconsin,55,Calumet,015
+ILMU,United States,Wisconsin,55,Chippewa,017
+ILMU,United States,Wisconsin,55,Clark,019
+ILMU,United States,Wisconsin,55,Dodge,027
+ILMU,United States,Wisconsin,55,Door,029
+ILMU,United States,Wisconsin,55,Douglas,031
+ILMU,United States,Wisconsin,55,Florence,037
+ILMU,United States,Wisconsin,55,Fond du Lac,039
+ILMU,United States,Wisconsin,55,Forest,041
+ILMU,United States,Wisconsin,55,Iron,051
+ILMU,United States,Wisconsin,55,Jackson,053
+ILMU,United States,Wisconsin,55,Langlade,067
+ILMU,United States,Wisconsin,55,Lincoln,069
+ILMU,United States,Wisconsin,55,Manitowoc,071
+ILMU,United States,Wisconsin,55,Marinette,075
+ILMU,United States,Wisconsin,55,Menominee,078
+ILMU,United States,Wisconsin,55,Milwaukee,079
+ILMU,United States,Wisconsin,55,Monroe,081
+ILMU,United States,Wisconsin,55,Oconto,083
+ILMU,United States,Wisconsin,55,Oneida,085
+ILMU,United States,Wisconsin,55,Ozaukee,089
+ILMU,United States,Wisconsin,55,Portage,097
+ILMU,United States,Wisconsin,55,Price,099
+ILMU,United States,Wisconsin,55,Rusk,107
+ILMU,United States,Wisconsin,55,Sauk,111
+ILMU,United States,Wisconsin,55,Sawyer,113
+ILMU,United States,Wisconsin,55,Shawano,115
+ILMU,United States,Wisconsin,55,Sheboygan,117
+ILMU,United States,Wisconsin,55,Taylor,119
+ILMU,United States,Wisconsin,55,Trempealeau,121
+ILMU,United States,Wisconsin,55,Vilas,125
+ILMU,United States,Wisconsin,55,Washburn,129
+ILMU,United States,Wisconsin,55,Washington,131
+ILMU,United States,Wisconsin,55,Wood,141
+ILMU,Canada,Newfoundland,NF,,

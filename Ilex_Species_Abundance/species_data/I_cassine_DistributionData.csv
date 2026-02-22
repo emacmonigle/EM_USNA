@@ -1,0 +1,121 @@
+﻿Symbol,Country,State,State FIP,County,County FIP
+ILCA,United States,Alabama,01,,
+ILCA,United States,Alabama,01,Baldwin,003
+ILCA,United States,Alabama,01,Coffee,031
+ILCA,United States,Alabama,01,Covington,039
+ILCA,United States,Alabama,01,Escambia,053
+ILCA,United States,Alabama,01,Geneva,061
+ILCA,United States,Alabama,01,Houston,069
+ILCA,United States,Alabama,01,Lee,081
+ILCA,United States,Alabama,01,Mobile,097
+ILCA,United States,Alabama,01,Monroe,099
+ILCA,United States,Alabama,01,Pike,109
+ILCA,United States,Alabama,01,Russell,113
+ILCA,United States,Florida,12,,
+ILCA,United States,Florida,12,Alachua,001
+ILCA,United States,Florida,12,Baker,003
+ILCA,United States,Florida,12,Bay,005
+ILCA,United States,Florida,12,Brevard,009
+ILCA,United States,Florida,12,Broward,011
+ILCA,United States,Florida,12,Charlotte,015
+ILCA,United States,Florida,12,Citrus,017
+ILCA,United States,Florida,12,Clay,019
+ILCA,United States,Florida,12,Collier,021
+ILCA,United States,Florida,12,Columbia,023
+ILCA,United States,Florida,12,DeSoto,027
+ILCA,United States,Florida,12,Dixie,029
+ILCA,United States,Florida,12,Duval,031
+ILCA,United States,Florida,12,Escambia,033
+ILCA,United States,Florida,12,Flagler,035
+ILCA,United States,Florida,12,Franklin,037
+ILCA,United States,Florida,12,Gilchrist,041
+ILCA,United States,Florida,12,Glades,043
+ILCA,United States,Florida,12,Gulf,045
+ILCA,United States,Florida,12,Hamilton,047
+ILCA,United States,Florida,12,Hardee,049
+ILCA,United States,Florida,12,Hendry,051
+ILCA,United States,Florida,12,Hernando,053
+ILCA,United States,Florida,12,Highlands,055
+ILCA,United States,Florida,12,Hillsborough,057
+ILCA,United States,Florida,12,Indian River,061
+ILCA,United States,Florida,12,Jackson,063
+ILCA,United States,Florida,12,Jefferson,065
+ILCA,United States,Florida,12,Lafayette,067
+ILCA,United States,Florida,12,Lake,069
+ILCA,United States,Florida,12,Lee,071
+ILCA,United States,Florida,12,Leon,073
+ILCA,United States,Florida,12,Levy,075
+ILCA,United States,Florida,12,Manatee,081
+ILCA,United States,Florida,12,Marion,083
+ILCA,United States,Florida,12,Martin,085
+ILCA,United States,Florida,12,Miami-Dade,086
+ILCA,United States,Florida,12,Monroe,087
+ILCA,United States,Florida,12,Nassau,089
+ILCA,United States,Florida,12,Okaloosa,091
+ILCA,United States,Florida,12,Okeechobee,093
+ILCA,United States,Florida,12,Orange,095
+ILCA,United States,Florida,12,Osceola,097
+ILCA,United States,Florida,12,Palm Beach,099
+ILCA,United States,Florida,12,Pasco,101
+ILCA,United States,Florida,12,Pinellas,103
+ILCA,United States,Florida,12,Polk,105
+ILCA,United States,Florida,12,Putnam,107
+ILCA,United States,Florida,12,Santa Rosa,113
+ILCA,United States,Florida,12,Sarasota,115
+ILCA,United States,Florida,12,Seminole,117
+ILCA,United States,Florida,12,St. Johns,109
+ILCA,United States,Florida,12,St. Lucie,111
+ILCA,United States,Florida,12,Sumter,119
+ILCA,United States,Florida,12,Suwannee,121
+ILCA,United States,Florida,12,Taylor,123
+ILCA,United States,Florida,12,Union,125
+ILCA,United States,Florida,12,Volusia,127
+ILCA,United States,Florida,12,Wakulla,129
+ILCA,United States,Florida,12,Walton,131
+ILCA,United States,Georgia,13,,
+ILCA,United States,Georgia,13,Burke,033
+ILCA,United States,Georgia,13,Camden,039
+ILCA,United States,Georgia,13,Charlton,049
+ILCA,United States,Georgia,13,Chatham,051
+ILCA,United States,Georgia,13,Clay,061
+ILCA,United States,Georgia,13,Clinch,065
+ILCA,United States,Georgia,13,Early,099
+ILCA,United States,Georgia,13,Echols,101
+ILCA,United States,Georgia,13,Glynn,127
+ILCA,United States,Georgia,13,Liberty,179
+ILCA,United States,Georgia,13,McIntosh,191
+ILCA,United States,Georgia,13,Ware,299
+ILCA,United States,Hawaii,15,,
+ILCA,United States,Hawaii,15,Hawaii,001
+ILCA,United States,Hawaii,15,Honolulu,003
+ILCA,United States,Louisiana,22,,
+ILCA,United States,Louisiana,22,Concordia,029
+ILCA,United States,Louisiana,22,East Baton Rouge,033
+ILCA,United States,Louisiana,22,Iberia,045
+ILCA,United States,Louisiana,22,Lafayette,055
+ILCA,United States,Louisiana,22,Orleans,071
+ILCA,United States,Louisiana,22,Ouachita,073
+ILCA,United States,Louisiana,22,Rapides,079
+ILCA,United States,Louisiana,22,St. Bernard,087
+ILCA,United States,Louisiana,22,St. Charles,089
+ILCA,United States,Louisiana,22,St. Mary,101
+ILCA,United States,Louisiana,22,St. Tammany,103
+ILCA,United States,Louisiana,22,Tangipahoa,105
+ILCA,United States,Louisiana,22,Terrebonne,109
+ILCA,United States,Mississippi,28,,
+ILCA,United States,Mississippi,28,Harrison,047
+ILCA,United States,Mississippi,28,Jackson,059
+ILCA,United States,Mississippi,28,Pearl River,109
+ILCA,United States,North Carolina,37,,
+ILCA,United States,North Carolina,37,Brunswick,019
+ILCA,United States,North Carolina,37,New Hanover,129
+ILCA,United States,South Carolina,45,,
+ILCA,United States,South Carolina,45,Beaufort,013
+ILCA,United States,South Carolina,45,Berkeley,015
+ILCA,United States,South Carolina,45,Charleston,019
+ILCA,United States,South Carolina,45,Dorchester,035
+ILCA,United States,South Carolina,45,Georgetown,043
+ILCA,United States,South Carolina,45,Horry,051
+ILCA,United States,South Carolina,45,Williamsburg,089
+ILCA,United States,Texas,48,,
+ILCA,United States,Puerto Rico,72,,

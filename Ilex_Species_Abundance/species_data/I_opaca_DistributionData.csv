@@ -1,0 +1,785 @@
+﻿Symbol,Country,State,State FIP,County,County FIP
+ILOP,United States,Alabama,01,,
+ILOP,United States,Alabama,01,Autauga,001
+ILOP,United States,Alabama,01,Baldwin,003
+ILOP,United States,Alabama,01,Barbour,005
+ILOP,United States,Alabama,01,Bibb,007
+ILOP,United States,Alabama,01,Blount,009
+ILOP,United States,Alabama,01,Bullock,011
+ILOP,United States,Alabama,01,Butler,013
+ILOP,United States,Alabama,01,Calhoun,015
+ILOP,United States,Alabama,01,Chambers,017
+ILOP,United States,Alabama,01,Chilton,021
+ILOP,United States,Alabama,01,Choctaw,023
+ILOP,United States,Alabama,01,Clarke,025
+ILOP,United States,Alabama,01,Clay,027
+ILOP,United States,Alabama,01,Cleburne,029
+ILOP,United States,Alabama,01,Coffee,031
+ILOP,United States,Alabama,01,Colbert,033
+ILOP,United States,Alabama,01,Conecuh,035
+ILOP,United States,Alabama,01,Coosa,037
+ILOP,United States,Alabama,01,Covington,039
+ILOP,United States,Alabama,01,Crenshaw,041
+ILOP,United States,Alabama,01,Cullman,043
+ILOP,United States,Alabama,01,Dale,045
+ILOP,United States,Alabama,01,Dallas,047
+ILOP,United States,Alabama,01,DeKalb,049
+ILOP,United States,Alabama,01,Elmore,051
+ILOP,United States,Alabama,01,Escambia,053
+ILOP,United States,Alabama,01,Fayette,057
+ILOP,United States,Alabama,01,Franklin,059
+ILOP,United States,Alabama,01,Geneva,061
+ILOP,United States,Alabama,01,Greene,063
+ILOP,United States,Alabama,01,Hale,065
+ILOP,United States,Alabama,01,Henry,067
+ILOP,United States,Alabama,01,Houston,069
+ILOP,United States,Alabama,01,Jackson,071
+ILOP,United States,Alabama,01,Lamar,075
+ILOP,United States,Alabama,01,Lauderdale,077
+ILOP,United States,Alabama,01,Lawrence,079
+ILOP,United States,Alabama,01,Lee,081
+ILOP,United States,Alabama,01,Lowndes,085
+ILOP,United States,Alabama,01,Macon,087
+ILOP,United States,Alabama,01,Madison,089
+ILOP,United States,Alabama,01,Marengo,091
+ILOP,United States,Alabama,01,Marshall,095
+ILOP,United States,Alabama,01,Mobile,097
+ILOP,United States,Alabama,01,Monroe,099
+ILOP,United States,Alabama,01,Montgomery,101
+ILOP,United States,Alabama,01,Perry,105
+ILOP,United States,Alabama,01,Pickens,107
+ILOP,United States,Alabama,01,Pike,109
+ILOP,United States,Alabama,01,Russell,113
+ILOP,United States,Alabama,01,Tallapoosa,123
+ILOP,United States,Alabama,01,Tuscaloosa,125
+ILOP,United States,Alabama,01,Walker,127
+ILOP,United States,Alabama,01,Washington,129
+ILOP,United States,Alabama,01,Wilcox,131
+ILOP,United States,Alabama,01,Winston,133
+ILOP,United States,Arkansas,05,,
+ILOP,United States,Arkansas,05,Arkansas,001
+ILOP,United States,Arkansas,05,Ashley,003
+ILOP,United States,Arkansas,05,Bradley,011
+ILOP,United States,Arkansas,05,Calhoun,013
+ILOP,United States,Arkansas,05,Chicot,017
+ILOP,United States,Arkansas,05,Clark,019
+ILOP,United States,Arkansas,05,Clay,021
+ILOP,United States,Arkansas,05,Cleveland,025
+ILOP,United States,Arkansas,05,Columbia,027
+ILOP,United States,Arkansas,05,Conway,029
+ILOP,United States,Arkansas,05,Craighead,031
+ILOP,United States,Arkansas,05,Crittenden,035
+ILOP,United States,Arkansas,05,Cross,037
+ILOP,United States,Arkansas,05,Dallas,039
+ILOP,United States,Arkansas,05,Desha,041
+ILOP,United States,Arkansas,05,Drew,043
+ILOP,United States,Arkansas,05,Garland,051
+ILOP,United States,Arkansas,05,Grant,053
+ILOP,United States,Arkansas,05,Greene,055
+ILOP,United States,Arkansas,05,Hempstead,057
+ILOP,United States,Arkansas,05,Hot Spring,059
+ILOP,United States,Arkansas,05,Howard,061
+ILOP,United States,Arkansas,05,Jefferson,069
+ILOP,United States,Arkansas,05,Johnson,071
+ILOP,United States,Arkansas,05,Lafayette,073
+ILOP,United States,Arkansas,05,Lee,077
+ILOP,United States,Arkansas,05,Lincoln,079
+ILOP,United States,Arkansas,05,Little River,081
+ILOP,United States,Arkansas,05,Lonoke,085
+ILOP,United States,Arkansas,05,Miller,091
+ILOP,United States,Arkansas,05,Mississippi,093
+ILOP,United States,Arkansas,05,Monroe,095
+ILOP,United States,Arkansas,05,Montgomery,097
+ILOP,United States,Arkansas,05,Nevada,099
+ILOP,United States,Arkansas,05,Ouachita,103
+ILOP,United States,Arkansas,05,Perry,105
+ILOP,United States,Arkansas,05,Phillips,107
+ILOP,United States,Arkansas,05,Pike,109
+ILOP,United States,Arkansas,05,Poinsett,111
+ILOP,United States,Arkansas,05,Polk,113
+ILOP,United States,Arkansas,05,Pulaski,119
+ILOP,United States,Arkansas,05,Saline,125
+ILOP,United States,Arkansas,05,Scott,127
+ILOP,United States,Arkansas,05,Sevier,133
+ILOP,United States,Arkansas,05,St. Francis,123
+ILOP,United States,Arkansas,05,Union,139
+ILOP,United States,Connecticut,09,,
+ILOP,United States,Connecticut,09,Fairfield,001
+ILOP,United States,Delaware,10,,
+ILOP,United States,Delaware,10,Kent,001
+ILOP,United States,Delaware,10,New Castle,003
+ILOP,United States,District of Columbia,11,,
+ILOP,United States,District of Columbia,11,District of Columbia,001
+ILOP,United States,Florida,12,,
+ILOP,United States,Florida,12,Alachua,001
+ILOP,United States,Florida,12,Baker,003
+ILOP,United States,Florida,12,Bay,005
+ILOP,United States,Florida,12,Bradford,007
+ILOP,United States,Florida,12,Calhoun,013
+ILOP,United States,Florida,12,Citrus,017
+ILOP,United States,Florida,12,Clay,019
+ILOP,United States,Florida,12,Columbia,023
+ILOP,United States,Florida,12,DeSoto,027
+ILOP,United States,Florida,12,Dixie,029
+ILOP,United States,Florida,12,Duval,031
+ILOP,United States,Florida,12,Escambia,033
+ILOP,United States,Florida,12,Flagler,035
+ILOP,United States,Florida,12,Franklin,037
+ILOP,United States,Florida,12,Gadsden,039
+ILOP,United States,Florida,12,Gilchrist,041
+ILOP,United States,Florida,12,Gulf,045
+ILOP,United States,Florida,12,Hamilton,047
+ILOP,United States,Florida,12,Hernando,053
+ILOP,United States,Florida,12,Highlands,055
+ILOP,United States,Florida,12,Hillsborough,057
+ILOP,United States,Florida,12,Jackson,063
+ILOP,United States,Florida,12,Jefferson,065
+ILOP,United States,Florida,12,Lafayette,067
+ILOP,United States,Florida,12,Lake,069
+ILOP,United States,Florida,12,Lee,071
+ILOP,United States,Florida,12,Leon,073
+ILOP,United States,Florida,12,Levy,075
+ILOP,United States,Florida,12,Liberty,077
+ILOP,United States,Florida,12,Manatee,081
+ILOP,United States,Florida,12,Marion,083
+ILOP,United States,Florida,12,Okaloosa,091
+ILOP,United States,Florida,12,Orange,095
+ILOP,United States,Florida,12,Pinellas,103
+ILOP,United States,Florida,12,Polk,105
+ILOP,United States,Florida,12,Putnam,107
+ILOP,United States,Florida,12,Santa Rosa,113
+ILOP,United States,Florida,12,Seminole,117
+ILOP,United States,Florida,12,St. Johns,109
+ILOP,United States,Florida,12,Sumter,119
+ILOP,United States,Florida,12,Suwannee,121
+ILOP,United States,Florida,12,Taylor,123
+ILOP,United States,Florida,12,Union,125
+ILOP,United States,Florida,12,Volusia,127
+ILOP,United States,Florida,12,Wakulla,129
+ILOP,United States,Florida,12,Walton,131
+ILOP,United States,Florida,12,Washington,133
+ILOP,United States,Georgia,13,,
+ILOP,United States,Georgia,13,Atkinson,003
+ILOP,United States,Georgia,13,Baker,007
+ILOP,United States,Georgia,13,Baldwin,009
+ILOP,United States,Georgia,13,Brooks,027
+ILOP,United States,Georgia,13,Bulloch,031
+ILOP,United States,Georgia,13,Camden,039
+ILOP,United States,Georgia,13,Carroll,045
+ILOP,United States,Georgia,13,Charlton,049
+ILOP,United States,Georgia,13,Chatham,051
+ILOP,United States,Georgia,13,Chattooga,055
+ILOP,United States,Georgia,13,Clarke,059
+ILOP,United States,Georgia,13,Coffee,069
+ILOP,United States,Georgia,13,Colquitt,071
+ILOP,United States,Georgia,13,Crisp,081
+ILOP,United States,Georgia,13,Dade,083
+ILOP,United States,Georgia,13,DeKalb,089
+ILOP,United States,Georgia,13,Echols,101
+ILOP,United States,Georgia,13,Elbert,105
+ILOP,United States,Georgia,13,Fannin,111
+ILOP,United States,Georgia,13,Gilmer,123
+ILOP,United States,Georgia,13,Glascock,125
+ILOP,United States,Georgia,13,Glynn,127
+ILOP,United States,Georgia,13,Grady,131
+ILOP,United States,Georgia,13,Habersham,137
+ILOP,United States,Georgia,13,Hall,139
+ILOP,United States,Georgia,13,Jackson,157
+ILOP,United States,Georgia,13,Jefferson,163
+ILOP,United States,Georgia,13,Johnson,167
+ILOP,United States,Georgia,13,Lanier,173
+ILOP,United States,Georgia,13,Laurens,175
+ILOP,United States,Georgia,13,Liberty,179
+ILOP,United States,Georgia,13,Lowndes,185
+ILOP,United States,Georgia,13,Lumpkin,187
+ILOP,United States,Georgia,13,Macon,193
+ILOP,United States,Georgia,13,McDuffie,189
+ILOP,United States,Georgia,13,McIntosh,191
+ILOP,United States,Georgia,13,Mitchell,205
+ILOP,United States,Georgia,13,Morgan,211
+ILOP,United States,Georgia,13,Newton,217
+ILOP,United States,Georgia,13,Oglethorpe,221
+ILOP,United States,Georgia,13,Pickens,227
+ILOP,United States,Georgia,13,Pike,231
+ILOP,United States,Georgia,13,Pulaski,235
+ILOP,United States,Georgia,13,Rabun,241
+ILOP,United States,Georgia,13,Spalding,255
+ILOP,United States,Georgia,13,Sumter,261
+ILOP,United States,Georgia,13,Tattnall,267
+ILOP,United States,Georgia,13,Tift,277
+ILOP,United States,Georgia,13,Towns,281
+ILOP,United States,Georgia,13,Twiggs,289
+ILOP,United States,Georgia,13,Union,291
+ILOP,United States,Georgia,13,Ware,299
+ILOP,United States,Georgia,13,Whitfield,313
+ILOP,United States,Georgia,13,Worth,321
+ILOP,United States,Illinois,17,,
+ILOP,United States,Illinois,17,Union,181
+ILOP,United States,Indiana,18,,
+ILOP,United States,Kentucky,21,,
+ILOP,United States,Kentucky,21,Adair,001
+ILOP,United States,Kentucky,21,Allen,003
+ILOP,United States,Kentucky,21,Anderson,005
+ILOP,United States,Kentucky,21,Barren,009
+ILOP,United States,Kentucky,21,Bath,011
+ILOP,United States,Kentucky,21,Bell,013
+ILOP,United States,Kentucky,21,Bourbon,017
+ILOP,United States,Kentucky,21,Boyd,019
+ILOP,United States,Kentucky,21,Boyle,021
+ILOP,United States,Kentucky,21,Bullitt,029
+ILOP,United States,Kentucky,21,Butler,031
+ILOP,United States,Kentucky,21,Calloway,035
+ILOP,United States,Kentucky,21,Campbell,037
+ILOP,United States,Kentucky,21,Carter,043
+ILOP,United States,Kentucky,21,Casey,045
+ILOP,United States,Kentucky,21,Clay,051
+ILOP,United States,Kentucky,21,Clinton,053
+ILOP,United States,Kentucky,21,Cumberland,057
+ILOP,United States,Kentucky,21,Daviess,059
+ILOP,United States,Kentucky,21,Edmonson,061
+ILOP,United States,Kentucky,21,Elliott,063
+ILOP,United States,Kentucky,21,Estill,065
+ILOP,United States,Kentucky,21,Fayette,067
+ILOP,United States,Kentucky,21,Fleming,069
+ILOP,United States,Kentucky,21,Floyd,071
+ILOP,United States,Kentucky,21,Franklin,073
+ILOP,United States,Kentucky,21,Fulton,075
+ILOP,United States,Kentucky,21,Garrard,079
+ILOP,United States,Kentucky,21,Grayson,085
+ILOP,United States,Kentucky,21,Green,087
+ILOP,United States,Kentucky,21,Hardin,093
+ILOP,United States,Kentucky,21,Harlan,095
+ILOP,United States,Kentucky,21,Hart,099
+ILOP,United States,Kentucky,21,Henry,103
+ILOP,United States,Kentucky,21,Hickman,105
+ILOP,United States,Kentucky,21,Jackson,109
+ILOP,United States,Kentucky,21,Jefferson,111
+ILOP,United States,Kentucky,21,Johnson,115
+ILOP,United States,Kentucky,21,Knott,119
+ILOP,United States,Kentucky,21,Knox,121
+ILOP,United States,Kentucky,21,Larue,123
+ILOP,United States,Kentucky,21,Laurel,125
+ILOP,United States,Kentucky,21,Lawrence,127
+ILOP,United States,Kentucky,21,Lee,129
+ILOP,United States,Kentucky,21,Leslie,131
+ILOP,United States,Kentucky,21,Letcher,133
+ILOP,United States,Kentucky,21,Lewis,135
+ILOP,United States,Kentucky,21,Logan,141
+ILOP,United States,Kentucky,21,Madison,151
+ILOP,United States,Kentucky,21,Magoffin,153
+ILOP,United States,Kentucky,21,Martin,159
+ILOP,United States,Kentucky,21,McCracken,145
+ILOP,United States,Kentucky,21,McCreary,147
+ILOP,United States,Kentucky,21,Menifee,165
+ILOP,United States,Kentucky,21,Metcalfe,169
+ILOP,United States,Kentucky,21,Monroe,171
+ILOP,United States,Kentucky,21,Montgomery,173
+ILOP,United States,Kentucky,21,Morgan,175
+ILOP,United States,Kentucky,21,Ohio,183
+ILOP,United States,Kentucky,21,Oldham,185
+ILOP,United States,Kentucky,21,Owsley,189
+ILOP,United States,Kentucky,21,Perry,193
+ILOP,United States,Kentucky,21,Pike,195
+ILOP,United States,Kentucky,21,Powell,197
+ILOP,United States,Kentucky,21,Pulaski,199
+ILOP,United States,Kentucky,21,Rockcastle,203
+ILOP,United States,Kentucky,21,Rowan,205
+ILOP,United States,Kentucky,21,Russell,207
+ILOP,United States,Kentucky,21,Shelby,211
+ILOP,United States,Kentucky,21,Simpson,213
+ILOP,United States,Kentucky,21,Taylor,217
+ILOP,United States,Kentucky,21,Todd,219
+ILOP,United States,Kentucky,21,Trigg,221
+ILOP,United States,Kentucky,21,Warren,227
+ILOP,United States,Kentucky,21,Wayne,231
+ILOP,United States,Kentucky,21,Whitley,235
+ILOP,United States,Kentucky,21,Wolfe,237
+ILOP,United States,Louisiana,22,,
+ILOP,United States,Louisiana,22,Allen,003
+ILOP,United States,Louisiana,22,Avoyelles,009
+ILOP,United States,Louisiana,22,Beauregard,011
+ILOP,United States,Louisiana,22,Bienville,013
+ILOP,United States,Louisiana,22,Bossier,015
+ILOP,United States,Louisiana,22,Caddo,017
+ILOP,United States,Louisiana,22,Calcasieu,019
+ILOP,United States,Louisiana,22,Caldwell,021
+ILOP,United States,Louisiana,22,Cameron,023
+ILOP,United States,Louisiana,22,Catahoula,025
+ILOP,United States,Louisiana,22,Claiborne,027
+ILOP,United States,Louisiana,22,Concordia,029
+ILOP,United States,Louisiana,22,De Soto,031
+ILOP,United States,Louisiana,22,East Baton Rouge,033
+ILOP,United States,Louisiana,22,East Carroll,035
+ILOP,United States,Louisiana,22,East Feliciana,037
+ILOP,United States,Louisiana,22,Evangeline,039
+ILOP,United States,Louisiana,22,Franklin,041
+ILOP,United States,Louisiana,22,Grant,043
+ILOP,United States,Louisiana,22,Jackson,049
+ILOP,United States,Louisiana,22,Jefferson Davis,053
+ILOP,United States,Louisiana,22,LaSalle,059
+ILOP,United States,Louisiana,22,Lincoln,061
+ILOP,United States,Louisiana,22,Livingston,063
+ILOP,United States,Louisiana,22,Morehouse,067
+ILOP,United States,Louisiana,22,Natchitoches,069
+ILOP,United States,Louisiana,22,Ouachita,073
+ILOP,United States,Louisiana,22,Rapides,079
+ILOP,United States,Louisiana,22,Red River,081
+ILOP,United States,Louisiana,22,Richland,083
+ILOP,United States,Louisiana,22,Sabine,085
+ILOP,United States,Louisiana,22,St. Charles,089
+ILOP,United States,Louisiana,22,St. Helena,091
+ILOP,United States,Louisiana,22,St. Landry,097
+ILOP,United States,Louisiana,22,St. Mary,101
+ILOP,United States,Louisiana,22,St. Tammany,103
+ILOP,United States,Louisiana,22,Tangipahoa,105
+ILOP,United States,Louisiana,22,Union,111
+ILOP,United States,Louisiana,22,Vermilion,113
+ILOP,United States,Louisiana,22,Vernon,115
+ILOP,United States,Louisiana,22,Washington,117
+ILOP,United States,Louisiana,22,Webster,119
+ILOP,United States,Louisiana,22,West Carroll,123
+ILOP,United States,Louisiana,22,West Feliciana,125
+ILOP,United States,Louisiana,22,Winn,127
+ILOP,United States,Maryland,24,,
+ILOP,United States,Massachusetts,25,,
+ILOP,United States,Massachusetts,25,Barnstable,001
+ILOP,United States,Massachusetts,25,Bristol,005
+ILOP,United States,Massachusetts,25,Dukes,007
+ILOP,United States,Massachusetts,25,Essex,009
+ILOP,United States,Massachusetts,25,Nantucket,019
+ILOP,United States,Massachusetts,25,Norfolk,021
+ILOP,United States,Massachusetts,25,Plymouth,023
+ILOP,United States,Mississippi,28,,
+ILOP,United States,Mississippi,28,Adams,001
+ILOP,United States,Mississippi,28,Amite,005
+ILOP,United States,Mississippi,28,Attala,007
+ILOP,United States,Mississippi,28,Carroll,015
+ILOP,United States,Mississippi,28,Claiborne,021
+ILOP,United States,Mississippi,28,Clarke,023
+ILOP,United States,Mississippi,28,Copiah,029
+ILOP,United States,Mississippi,28,Covington,031
+ILOP,United States,Mississippi,28,DeSoto,033
+ILOP,United States,Mississippi,28,Forrest,035
+ILOP,United States,Mississippi,28,Franklin,037
+ILOP,United States,Mississippi,28,George,039
+ILOP,United States,Mississippi,28,Greene,041
+ILOP,United States,Mississippi,28,Grenada,043
+ILOP,United States,Mississippi,28,Hancock,045
+ILOP,United States,Mississippi,28,Harrison,047
+ILOP,United States,Mississippi,28,Hinds,049
+ILOP,United States,Mississippi,28,Itawamba,057
+ILOP,United States,Mississippi,28,Jackson,059
+ILOP,United States,Mississippi,28,Jasper,061
+ILOP,United States,Mississippi,28,Jefferson,063
+ILOP,United States,Mississippi,28,Jefferson Davis,065
+ILOP,United States,Mississippi,28,Jones,067
+ILOP,United States,Mississippi,28,Lafayette,071
+ILOP,United States,Mississippi,28,Lamar,073
+ILOP,United States,Mississippi,28,Lauderdale,075
+ILOP,United States,Mississippi,28,Lawrence,077
+ILOP,United States,Mississippi,28,Lee,081
+ILOP,United States,Mississippi,28,Leflore,083
+ILOP,United States,Mississippi,28,Madison,089
+ILOP,United States,Mississippi,28,Marion,091
+ILOP,United States,Mississippi,28,Marshall,093
+ILOP,United States,Mississippi,28,Monroe,095
+ILOP,United States,Mississippi,28,Newton,101
+ILOP,United States,Mississippi,28,Noxubee,103
+ILOP,United States,Mississippi,28,Panola,107
+ILOP,United States,Mississippi,28,Pearl River,109
+ILOP,United States,Mississippi,28,Perry,111
+ILOP,United States,Mississippi,28,Pike,113
+ILOP,United States,Mississippi,28,Rankin,121
+ILOP,United States,Mississippi,28,Scott,123
+ILOP,United States,Mississippi,28,Simpson,127
+ILOP,United States,Mississippi,28,Smith,129
+ILOP,United States,Mississippi,28,Stone,131
+ILOP,United States,Mississippi,28,Tippah,139
+ILOP,United States,Mississippi,28,Tishomingo,141
+ILOP,United States,Mississippi,28,Walthall,147
+ILOP,United States,Mississippi,28,Warren,149
+ILOP,United States,Mississippi,28,Washington,151
+ILOP,United States,Mississippi,28,Wayne,153
+ILOP,United States,Mississippi,28,Wilkinson,157
+ILOP,United States,Mississippi,28,Winston,159
+ILOP,United States,Mississippi,28,Yalobusha,161
+ILOP,United States,Missouri,29,,
+ILOP,United States,Missouri,29,Butler,023
+ILOP,United States,Missouri,29,Cape Girardeau,031
+ILOP,United States,Missouri,29,Dunklin,069
+ILOP,United States,Missouri,29,Mississippi,133
+ILOP,United States,Missouri,29,New Madrid,143
+ILOP,United States,Missouri,29,Stoddard,207
+ILOP,United States,Missouri,29,Wayne,223
+ILOP,United States,New Jersey,34,,
+ILOP,United States,New Jersey,34,Atlantic,001
+ILOP,United States,New Jersey,34,Bergen,003
+ILOP,United States,New Jersey,34,Burlington,005
+ILOP,United States,New Jersey,34,Camden,007
+ILOP,United States,New Jersey,34,Cape May,009
+ILOP,United States,New Jersey,34,Cumberland,011
+ILOP,United States,New Jersey,34,Essex,013
+ILOP,United States,New Jersey,34,Gloucester,015
+ILOP,United States,New Jersey,34,Mercer,021
+ILOP,United States,New Jersey,34,Middlesex,023
+ILOP,United States,New Jersey,34,Monmouth,025
+ILOP,United States,New Jersey,34,Morris,027
+ILOP,United States,New Jersey,34,Ocean,029
+ILOP,United States,New Jersey,34,Passaic,031
+ILOP,United States,New Jersey,34,Somerset,035
+ILOP,United States,New Jersey,34,Union,039
+ILOP,United States,New Jersey,34,Warren,041
+ILOP,United States,New York,36,,
+ILOP,United States,New York,36,Bronx,005
+ILOP,United States,New York,36,Dutchess,027
+ILOP,United States,New York,36,Kings,047
+ILOP,United States,New York,36,Nassau,059
+ILOP,United States,New York,36,New York,061
+ILOP,United States,New York,36,Orange,071
+ILOP,United States,New York,36,Queens,081
+ILOP,United States,New York,36,Richmond,085
+ILOP,United States,New York,36,Rockland,087
+ILOP,United States,New York,36,Suffolk,103
+ILOP,United States,New York,36,Westchester,119
+ILOP,United States,North Carolina,37,,
+ILOP,United States,North Carolina,37,Alamance,001
+ILOP,United States,North Carolina,37,Alexander,003
+ILOP,United States,North Carolina,37,Anson,007
+ILOP,United States,North Carolina,37,Ashe,009
+ILOP,United States,North Carolina,37,Beaufort,013
+ILOP,United States,North Carolina,37,Bertie,015
+ILOP,United States,North Carolina,37,Bladen,017
+ILOP,United States,North Carolina,37,Brunswick,019
+ILOP,United States,North Carolina,37,Buncombe,021
+ILOP,United States,North Carolina,37,Cabarrus,025
+ILOP,United States,North Carolina,37,Caldwell,027
+ILOP,United States,North Carolina,37,Carteret,031
+ILOP,United States,North Carolina,37,Caswell,033
+ILOP,United States,North Carolina,37,Catawba,035
+ILOP,United States,North Carolina,37,Chatham,037
+ILOP,United States,North Carolina,37,Cherokee,039
+ILOP,United States,North Carolina,37,Chowan,041
+ILOP,United States,North Carolina,37,Clay,043
+ILOP,United States,North Carolina,37,Cleveland,045
+ILOP,United States,North Carolina,37,Columbus,047
+ILOP,United States,North Carolina,37,Craven,049
+ILOP,United States,North Carolina,37,Cumberland,051
+ILOP,United States,North Carolina,37,Dare,055
+ILOP,United States,North Carolina,37,Davidson,057
+ILOP,United States,North Carolina,37,Davie,059
+ILOP,United States,North Carolina,37,Duplin,061
+ILOP,United States,North Carolina,37,Durham,063
+ILOP,United States,North Carolina,37,Forsyth,067
+ILOP,United States,North Carolina,37,Franklin,069
+ILOP,United States,North Carolina,37,Gaston,071
+ILOP,United States,North Carolina,37,Gates,073
+ILOP,United States,North Carolina,37,Graham,075
+ILOP,United States,North Carolina,37,Granville,077
+ILOP,United States,North Carolina,37,Greene,079
+ILOP,United States,North Carolina,37,Guilford,081
+ILOP,United States,North Carolina,37,Halifax,083
+ILOP,United States,North Carolina,37,Harnett,085
+ILOP,United States,North Carolina,37,Haywood,087
+ILOP,United States,North Carolina,37,Henderson,089
+ILOP,United States,North Carolina,37,Hertford,091
+ILOP,United States,North Carolina,37,Iredell,097
+ILOP,United States,North Carolina,37,Jackson,099
+ILOP,United States,North Carolina,37,Johnston,101
+ILOP,United States,North Carolina,37,Jones,103
+ILOP,United States,North Carolina,37,Lee,105
+ILOP,United States,North Carolina,37,Lenoir,107
+ILOP,United States,North Carolina,37,Lincoln,109
+ILOP,United States,North Carolina,37,Macon,113
+ILOP,United States,North Carolina,37,Madison,115
+ILOP,United States,North Carolina,37,Martin,117
+ILOP,United States,North Carolina,37,McDowell,111
+ILOP,United States,North Carolina,37,Montgomery,123
+ILOP,United States,North Carolina,37,Nash,127
+ILOP,United States,North Carolina,37,New Hanover,129
+ILOP,United States,North Carolina,37,Northampton,131
+ILOP,United States,North Carolina,37,Onslow,133
+ILOP,United States,North Carolina,37,Orange,135
+ILOP,United States,North Carolina,37,Pasquotank,139
+ILOP,United States,North Carolina,37,Pender,141
+ILOP,United States,North Carolina,37,Perquimans,143
+ILOP,United States,North Carolina,37,Pitt,147
+ILOP,United States,North Carolina,37,Polk,149
+ILOP,United States,North Carolina,37,Randolph,151
+ILOP,United States,North Carolina,37,Richmond,153
+ILOP,United States,North Carolina,37,Robeson,155
+ILOP,United States,North Carolina,37,Rockingham,157
+ILOP,United States,North Carolina,37,Rowan,159
+ILOP,United States,North Carolina,37,Sampson,163
+ILOP,United States,North Carolina,37,Scotland,165
+ILOP,United States,North Carolina,37,Stanly,167
+ILOP,United States,North Carolina,37,Stokes,169
+ILOP,United States,North Carolina,37,Surry,171
+ILOP,United States,North Carolina,37,Swain,173
+ILOP,United States,North Carolina,37,Transylvania,175
+ILOP,United States,North Carolina,37,Tyrrell,177
+ILOP,United States,North Carolina,37,Union,179
+ILOP,United States,North Carolina,37,Wake,183
+ILOP,United States,North Carolina,37,Warren,185
+ILOP,United States,North Carolina,37,Washington,187
+ILOP,United States,North Carolina,37,Wayne,191
+ILOP,United States,North Carolina,37,Wilkes,193
+ILOP,United States,North Carolina,37,Wilson,195
+ILOP,United States,North Carolina,37,Yadkin,197
+ILOP,United States,Ohio,39,,
+ILOP,United States,Ohio,39,Fairfield,045
+ILOP,United States,Ohio,39,Jackson,079
+ILOP,United States,Ohio,39,Lawrence,087
+ILOP,United States,Ohio,39,Licking,089
+ILOP,United States,Ohio,39,Meigs,105
+ILOP,United States,Ohio,39,Scioto,145
+ILOP,United States,Ohio,39,Tuscarawas,157
+ILOP,United States,Oklahoma,40,,
+ILOP,United States,Pennsylvania,42,,
+ILOP,United States,Pennsylvania,42,Allegheny,003
+ILOP,United States,Pennsylvania,42,Berks,011
+ILOP,United States,Pennsylvania,42,Bucks,017
+ILOP,United States,Pennsylvania,42,Chester,029
+ILOP,United States,Pennsylvania,42,Dauphin,043
+ILOP,United States,Pennsylvania,42,Delaware,045
+ILOP,United States,Pennsylvania,42,Franklin,055
+ILOP,United States,Pennsylvania,42,Lancaster,071
+ILOP,United States,Pennsylvania,42,Lebanon,075
+ILOP,United States,Pennsylvania,42,Mercer,085
+ILOP,United States,Pennsylvania,42,Montgomery,091
+ILOP,United States,Pennsylvania,42,Perry,099
+ILOP,United States,Pennsylvania,42,Philadelphia,101
+ILOP,United States,Pennsylvania,42,Pike,103
+ILOP,United States,Pennsylvania,42,York,133
+ILOP,United States,Rhode Island,44,,
+ILOP,United States,Rhode Island,44,Kent,003
+ILOP,United States,Rhode Island,44,Newport,005
+ILOP,United States,Rhode Island,44,Providence,007
+ILOP,United States,Rhode Island,44,Washington,009
+ILOP,United States,South Carolina,45,,
+ILOP,United States,South Carolina,45,Abbeville,001
+ILOP,United States,South Carolina,45,Aiken,003
+ILOP,United States,South Carolina,45,Allendale,005
+ILOP,United States,South Carolina,45,Anderson,007
+ILOP,United States,South Carolina,45,Bamberg,009
+ILOP,United States,South Carolina,45,Barnwell,011
+ILOP,United States,South Carolina,45,Beaufort,013
+ILOP,United States,South Carolina,45,Berkeley,015
+ILOP,United States,South Carolina,45,Calhoun,017
+ILOP,United States,South Carolina,45,Charleston,019
+ILOP,United States,South Carolina,45,Cherokee,021
+ILOP,United States,South Carolina,45,Chesterfield,025
+ILOP,United States,South Carolina,45,Colleton,029
+ILOP,United States,South Carolina,45,Darlington,031
+ILOP,United States,South Carolina,45,Dillon,033
+ILOP,United States,South Carolina,45,Dorchester,035
+ILOP,United States,South Carolina,45,Fairfield,039
+ILOP,United States,South Carolina,45,Florence,041
+ILOP,United States,South Carolina,45,Georgetown,043
+ILOP,United States,South Carolina,45,Hampton,049
+ILOP,United States,South Carolina,45,Horry,051
+ILOP,United States,South Carolina,45,Jasper,053
+ILOP,United States,South Carolina,45,Kershaw,055
+ILOP,United States,South Carolina,45,Lancaster,057
+ILOP,United States,South Carolina,45,Laurens,059
+ILOP,United States,South Carolina,45,Lexington,063
+ILOP,United States,South Carolina,45,Marlboro,069
+ILOP,United States,South Carolina,45,Newberry,071
+ILOP,United States,South Carolina,45,Oconee,073
+ILOP,United States,South Carolina,45,Orangeburg,075
+ILOP,United States,South Carolina,45,Pickens,077
+ILOP,United States,South Carolina,45,Richland,079
+ILOP,United States,South Carolina,45,Saluda,081
+ILOP,United States,South Carolina,45,Spartanburg,083
+ILOP,United States,South Carolina,45,Sumter,085
+ILOP,United States,South Carolina,45,Union,087
+ILOP,United States,South Carolina,45,Williamsburg,089
+ILOP,United States,Tennessee,47,,
+ILOP,United States,Tennessee,47,Benton,005
+ILOP,United States,Tennessee,47,Bledsoe,007
+ILOP,United States,Tennessee,47,Blount,009
+ILOP,United States,Tennessee,47,Campbell,013
+ILOP,United States,Tennessee,47,Carroll,017
+ILOP,United States,Tennessee,47,Carter,019
+ILOP,United States,Tennessee,47,Chester,023
+ILOP,United States,Tennessee,47,Clay,027
+ILOP,United States,Tennessee,47,Cocke,029
+ILOP,United States,Tennessee,47,Cumberland,035
+ILOP,United States,Tennessee,47,Decatur,039
+ILOP,United States,Tennessee,47,Fentress,049
+ILOP,United States,Tennessee,47,Franklin,051
+ILOP,United States,Tennessee,47,Grundy,061
+ILOP,United States,Tennessee,47,Hamilton,065
+ILOP,United States,Tennessee,47,Hardeman,069
+ILOP,United States,Tennessee,47,Hardin,071
+ILOP,United States,Tennessee,47,Hawkins,073
+ILOP,United States,Tennessee,47,Haywood,075
+ILOP,United States,Tennessee,47,Henderson,077
+ILOP,United States,Tennessee,47,Henry,079
+ILOP,United States,Tennessee,47,Johnson,091
+ILOP,United States,Tennessee,47,Knox,093
+ILOP,United States,Tennessee,47,Lake,095
+ILOP,United States,Tennessee,47,Lauderdale,097
+ILOP,United States,Tennessee,47,Madison,113
+ILOP,United States,Tennessee,47,Marion,115
+ILOP,United States,Tennessee,47,McNairy,109
+ILOP,United States,Tennessee,47,Meigs,121
+ILOP,United States,Tennessee,47,Monroe,123
+ILOP,United States,Tennessee,47,Montgomery,125
+ILOP,United States,Tennessee,47,Morgan,129
+ILOP,United States,Tennessee,47,Overton,133
+ILOP,United States,Tennessee,47,Polk,139
+ILOP,United States,Tennessee,47,Rhea,143
+ILOP,United States,Tennessee,47,Scott,151
+ILOP,United States,Tennessee,47,Sequatchie,153
+ILOP,United States,Tennessee,47,Sevier,155
+ILOP,United States,Tennessee,47,Shelby,157
+ILOP,United States,Tennessee,47,Smith,159
+ILOP,United States,Tennessee,47,Stewart,161
+ILOP,United States,Tennessee,47,Unicoi,171
+ILOP,United States,Tennessee,47,Van Buren,175
+ILOP,United States,Tennessee,47,Wayne,181
+ILOP,United States,Tennessee,47,Weakley,183
+ILOP,United States,Texas,48,,
+ILOP,United States,Texas,48,Anderson,001
+ILOP,United States,Texas,48,Angelina,005
+ILOP,United States,Texas,48,Bowie,037
+ILOP,United States,Texas,48,Brazoria,039
+ILOP,United States,Texas,48,Brazos,041
+ILOP,United States,Texas,48,Chambers,071
+ILOP,United States,Texas,48,Cherokee,073
+ILOP,United States,Texas,48,Franklin,159
+ILOP,United States,Texas,48,Freestone,161
+ILOP,United States,Texas,48,Galveston,167
+ILOP,United States,Texas,48,Gonzales,177
+ILOP,United States,Texas,48,Gregg,183
+ILOP,United States,Texas,48,Grimes,185
+ILOP,United States,Texas,48,Guadalupe,187
+ILOP,United States,Texas,48,Hardin,199
+ILOP,United States,Texas,48,Harris,201
+ILOP,United States,Texas,48,Houston,225
+ILOP,United States,Texas,48,Jackson,239
+ILOP,United States,Texas,48,Jasper,241
+ILOP,United States,Texas,48,Jefferson,245
+ILOP,United States,Texas,48,Liberty,291
+ILOP,United States,Texas,48,Montgomery,339
+ILOP,United States,Texas,48,Nacogdoches,347
+ILOP,United States,Texas,48,Newton,351
+ILOP,United States,Texas,48,Orange,361
+ILOP,United States,Texas,48,Polk,373
+ILOP,United States,Texas,48,Robertson,395
+ILOP,United States,Texas,48,Sabine,403
+ILOP,United States,Texas,48,San Augustine,405
+ILOP,United States,Texas,48,San Jacinto,407
+ILOP,United States,Texas,48,Shelby,419
+ILOP,United States,Texas,48,Trinity,455
+ILOP,United States,Texas,48,Tyler,457
+ILOP,United States,Texas,48,Upshur,459
+ILOP,United States,Texas,48,Van Zandt,467
+ILOP,United States,Texas,48,Walker,471
+ILOP,United States,Texas,48,Wood,499
+ILOP,United States,Virginia,51,,
+ILOP,United States,Virginia,51,Accomack,001
+ILOP,United States,Virginia,51,Albemarle,003
+ILOP,United States,Virginia,51,Amelia,007
+ILOP,United States,Virginia,51,Amherst,009
+ILOP,United States,Virginia,51,Appomattox,011
+ILOP,United States,Virginia,51,Arlington,013
+ILOP,United States,Virginia,51,Bland,021
+ILOP,United States,Virginia,51,Brunswick,025
+ILOP,United States,Virginia,51,Buchanan,027
+ILOP,United States,Virginia,51,Buckingham,029
+ILOP,United States,Virginia,51,Caroline,033
+ILOP,United States,Virginia,51,Carroll,035
+ILOP,United States,Virginia,51,Charles City,036
+ILOP,United States,Virginia,51,Charlotte,037
+ILOP,United States,Virginia,51,Chesapeake ,550
+ILOP,United States,Virginia,51,Chesterfield,041
+ILOP,United States,Virginia,51,Craig,045
+ILOP,United States,Virginia,51,Culpeper,047
+ILOP,United States,Virginia,51,Cumberland,049
+ILOP,United States,Virginia,51,Dickenson,051
+ILOP,United States,Virginia,51,Dinwiddie,053
+ILOP,United States,Virginia,51,Essex,057
+ILOP,United States,Virginia,51,Fairfax,059
+ILOP,United States,Virginia,51,Fauquier,061
+ILOP,United States,Virginia,51,Fluvanna,065
+ILOP,United States,Virginia,51,Frederick,069
+ILOP,United States,Virginia,51,Giles,071
+ILOP,United States,Virginia,51,Gloucester,073
+ILOP,United States,Virginia,51,Goochland,075
+ILOP,United States,Virginia,51,Greene,079
+ILOP,United States,Virginia,51,Greensville,081
+ILOP,United States,Virginia,51,Halifax,083
+ILOP,United States,Virginia,51,Hampton ,650
+ILOP,United States,Virginia,51,Hanover,085
+ILOP,United States,Virginia,51,Henrico,087
+ILOP,United States,Virginia,51,Henry,089
+ILOP,United States,Virginia,51,Isle of Wight,093
+ILOP,United States,Virginia,51,James City,095
+ILOP,United States,Virginia,51,King and Queen,097
+ILOP,United States,Virginia,51,King George,099
+ILOP,United States,Virginia,51,King William,101
+ILOP,United States,Virginia,51,Lancaster,103
+ILOP,United States,Virginia,51,Lee,105
+ILOP,United States,Virginia,51,Loudoun,107
+ILOP,United States,Virginia,51,Louisa,109
+ILOP,United States,Virginia,51,Lunenburg,111
+ILOP,United States,Virginia,51,Madison,113
+ILOP,United States,Virginia,51,Mathews,115
+ILOP,United States,Virginia,51,Mecklenburg,117
+ILOP,United States,Virginia,51,Middlesex,119
+ILOP,United States,Virginia,51,New Kent,127
+ILOP,United States,Virginia,51,Newport News ,700
+ILOP,United States,Virginia,51,Northampton,131
+ILOP,United States,Virginia,51,Northumberland,133
+ILOP,United States,Virginia,51,Nottoway,135
+ILOP,United States,Virginia,51,Orange,137
+ILOP,United States,Virginia,51,Page,139
+ILOP,United States,Virginia,51,Patrick,141
+ILOP,United States,Virginia,51,Pittsylvania,143
+ILOP,United States,Virginia,51,Powhatan,145
+ILOP,United States,Virginia,51,Prince Edward,147
+ILOP,United States,Virginia,51,Prince George,149
+ILOP,United States,Virginia,51,Prince William,153
+ILOP,United States,Virginia,51,Richmond,159
+ILOP,United States,Virginia,51,Rockingham,165
+ILOP,United States,Virginia,51,Scott,169
+ILOP,United States,Virginia,51,Shenandoah,171
+ILOP,United States,Virginia,51,Smyth,173
+ILOP,United States,Virginia,51,Southampton,175
+ILOP,United States,Virginia,51,Spotsylvania,177
+ILOP,United States,Virginia,51,Stafford,179
+ILOP,United States,Virginia,51,Suffolk ,800
+ILOP,United States,Virginia,51,Surry,181
+ILOP,United States,Virginia,51,Sussex,183
+ILOP,United States,Virginia,51,Tazewell,185
+ILOP,United States,Virginia,51,Virginia Beach ,810
+ILOP,United States,Virginia,51,Warren,187
+ILOP,United States,Virginia,51,Washington,191
+ILOP,United States,Virginia,51,Westmoreland,193
+ILOP,United States,Virginia,51,Wise,195
+ILOP,United States,Virginia,51,York,199
+ILOP,United States,West Virginia,54,,
+ILOP,United States,West Virginia,54,Barbour,001
+ILOP,United States,West Virginia,54,Boone,005
+ILOP,United States,West Virginia,54,Braxton,007
+ILOP,United States,West Virginia,54,Clay,015
+ILOP,United States,West Virginia,54,Fayette,019
+ILOP,United States,West Virginia,54,Greenbrier,025
+ILOP,United States,West Virginia,54,Hampshire,027
+ILOP,United States,West Virginia,54,Kanawha,039
+ILOP,United States,West Virginia,54,Logan,045
+ILOP,United States,West Virginia,54,Marion,049
+ILOP,United States,West Virginia,54,McDowell,047
+ILOP,United States,West Virginia,54,Mercer,055
+ILOP,United States,West Virginia,54,Mingo,059
+ILOP,United States,West Virginia,54,Nicholas,067
+ILOP,United States,West Virginia,54,Pocahontas,075
+ILOP,United States,West Virginia,54,Putnam,079
+ILOP,United States,West Virginia,54,Raleigh,081
+ILOP,United States,West Virginia,54,Randolph,083
+ILOP,United States,West Virginia,54,Summers,089
+ILOP,United States,West Virginia,54,Tucker,093
+ILOP,United States,West Virginia,54,Upshur,097
+ILOP,United States,West Virginia,54,Webster,101
+ILOP,United States,West Virginia,54,Wyoming,109

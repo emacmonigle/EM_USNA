@@ -1,0 +1,110 @@
+﻿Symbol,Country,State,State FIP,County,County FIP
+ILMY,United States,Alabama,01,,
+ILMY,United States,Alabama,01,Baldwin,003
+ILMY,United States,Alabama,01,Covington,039
+ILMY,United States,Alabama,01,Geneva,061
+ILMY,United States,Alabama,01,Mobile,097
+ILMY,United States,Florida,12,,
+ILMY,United States,Florida,12,Alachua,001
+ILMY,United States,Florida,12,Baker,003
+ILMY,United States,Florida,12,Bay,005
+ILMY,United States,Florida,12,Bradford,007
+ILMY,United States,Florida,12,Calhoun,013
+ILMY,United States,Florida,12,Clay,019
+ILMY,United States,Florida,12,Columbia,023
+ILMY,United States,Florida,12,Duval,031
+ILMY,United States,Florida,12,Escambia,033
+ILMY,United States,Florida,12,Franklin,037
+ILMY,United States,Florida,12,Gadsden,039
+ILMY,United States,Florida,12,Gulf,045
+ILMY,United States,Florida,12,Holmes,059
+ILMY,United States,Florida,12,Jackson,063
+ILMY,United States,Florida,12,Jefferson,065
+ILMY,United States,Florida,12,Lafayette,067
+ILMY,United States,Florida,12,Leon,073
+ILMY,United States,Florida,12,Liberty,077
+ILMY,United States,Florida,12,Madison,079
+ILMY,United States,Florida,12,Nassau,089
+ILMY,United States,Florida,12,Okaloosa,091
+ILMY,United States,Florida,12,Orange,095
+ILMY,United States,Florida,12,Santa Rosa,113
+ILMY,United States,Florida,12,Suwannee,121
+ILMY,United States,Florida,12,Union,125
+ILMY,United States,Florida,12,Wakulla,129
+ILMY,United States,Florida,12,Walton,131
+ILMY,United States,Florida,12,Washington,133
+ILMY,United States,Georgia,13,,
+ILMY,United States,Georgia,13,Appling,001
+ILMY,United States,Georgia,13,Bacon,005
+ILMY,United States,Georgia,13,Ben Hill,017
+ILMY,United States,Georgia,13,Berrien,019
+ILMY,United States,Georgia,13,Brantley,025
+ILMY,United States,Georgia,13,Charlton,049
+ILMY,United States,Georgia,13,Chatham,051
+ILMY,United States,Georgia,13,Clay,061
+ILMY,United States,Georgia,13,Clinch,065
+ILMY,United States,Georgia,13,Coffee,069
+ILMY,United States,Georgia,13,Colquitt,071
+ILMY,United States,Georgia,13,Cook,075
+ILMY,United States,Georgia,13,Crisp,081
+ILMY,United States,Georgia,13,Dodge,091
+ILMY,United States,Georgia,13,Dooly,093
+ILMY,United States,Georgia,13,Dougherty,095
+ILMY,United States,Georgia,13,Early,099
+ILMY,United States,Georgia,13,Echols,101
+ILMY,United States,Georgia,13,Irwin,155
+ILMY,United States,Georgia,13,Jefferson,163
+ILMY,United States,Georgia,13,Jenkins,165
+ILMY,United States,Georgia,13,Long,183
+ILMY,United States,Georgia,13,McIntosh,191
+ILMY,United States,Georgia,13,Miller,201
+ILMY,United States,Georgia,13,Pierce,229
+ILMY,United States,Georgia,13,Pulaski,235
+ILMY,United States,Georgia,13,Rabun,241
+ILMY,United States,Georgia,13,Screven,251
+ILMY,United States,Georgia,13,Tattnall,267
+ILMY,United States,Georgia,13,Telfair,271
+ILMY,United States,Georgia,13,Tift,277
+ILMY,United States,Georgia,13,Toombs,279
+ILMY,United States,Georgia,13,Troup,285
+ILMY,United States,Georgia,13,Turner,287
+ILMY,United States,Georgia,13,Ware,299
+ILMY,United States,Georgia,13,Wayne,305
+ILMY,United States,Georgia,13,Wilcox,315
+ILMY,United States,Louisiana,22,,
+ILMY,United States,Louisiana,22,Lafayette,055
+ILMY,United States,Louisiana,22,St. Tammany,103
+ILMY,United States,Louisiana,22,Tangipahoa,105
+ILMY,United States,Mississippi,28,,
+ILMY,United States,Mississippi,28,George,039
+ILMY,United States,Mississippi,28,Hancock,045
+ILMY,United States,Mississippi,28,Harrison,047
+ILMY,United States,Mississippi,28,Jackson,059
+ILMY,United States,Mississippi,28,Perry,111
+ILMY,United States,Mississippi,28,Stone,131
+ILMY,United States,North Carolina,37,,
+ILMY,United States,North Carolina,37,Brunswick,019
+ILMY,United States,North Carolina,37,Columbus,047
+ILMY,United States,North Carolina,37,Craven,049
+ILMY,United States,North Carolina,37,New Hanover,129
+ILMY,United States,North Carolina,37,Onslow,133
+ILMY,United States,North Carolina,37,Pamlico,137
+ILMY,United States,North Carolina,37,Pender,141
+ILMY,United States,South Carolina,45,,
+ILMY,United States,South Carolina,45,Allendale,005
+ILMY,United States,South Carolina,45,Bamberg,009
+ILMY,United States,South Carolina,45,Barnwell,011
+ILMY,United States,South Carolina,45,Berkeley,015
+ILMY,United States,South Carolina,45,Calhoun,017
+ILMY,United States,South Carolina,45,Colleton,029
+ILMY,United States,South Carolina,45,Darlington,031
+ILMY,United States,South Carolina,45,Dorchester,035
+ILMY,United States,South Carolina,45,Georgetown,043
+ILMY,United States,South Carolina,45,Hampton,049
+ILMY,United States,South Carolina,45,Horry,051
+ILMY,United States,South Carolina,45,Jasper,053
+ILMY,United States,South Carolina,45,Marion,067
+ILMY,United States,South Carolina,45,Orangeburg,075
+ILMY,United States,South Carolina,45,Sumter,085
+ILMY,United States,South Carolina,45,Williamsburg,089
+ILMY,United States,Texas,48,,

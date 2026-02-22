@@ -1,0 +1,233 @@
+﻿Symbol,Country,State,State FIP,County,County FIP
+ILAM,United States,Alabama,01,,
+ILAM,United States,Alabama,01,Autauga,001
+ILAM,United States,Alabama,01,Baldwin,003
+ILAM,United States,Alabama,01,Bibb,007
+ILAM,United States,Alabama,01,Blount,009
+ILAM,United States,Alabama,01,Chilton,021
+ILAM,United States,Alabama,01,Choctaw,023
+ILAM,United States,Alabama,01,Clay,027
+ILAM,United States,Alabama,01,Conecuh,035
+ILAM,United States,Alabama,01,Coosa,037
+ILAM,United States,Alabama,01,Crenshaw,041
+ILAM,United States,Alabama,01,Cullman,043
+ILAM,United States,Alabama,01,Dallas,047
+ILAM,United States,Alabama,01,DeKalb,049
+ILAM,United States,Alabama,01,Escambia,053
+ILAM,United States,Alabama,01,Fayette,057
+ILAM,United States,Alabama,01,Franklin,059
+ILAM,United States,Alabama,01,Jackson,071
+ILAM,United States,Alabama,01,Jefferson,073
+ILAM,United States,Alabama,01,Lawrence,079
+ILAM,United States,Alabama,01,Lee,081
+ILAM,United States,Alabama,01,Marion,093
+ILAM,United States,Alabama,01,Mobile,097
+ILAM,United States,Alabama,01,Pickens,107
+ILAM,United States,Alabama,01,Pike,109
+ILAM,United States,Alabama,01,St. Clair,115
+ILAM,United States,Alabama,01,Sumter,119
+ILAM,United States,Alabama,01,Tallapoosa,123
+ILAM,United States,Alabama,01,Tuscaloosa,125
+ILAM,United States,Alabama,01,Winston,133
+ILAM,United States,Arkansas,05,,
+ILAM,United States,Arkansas,05,Ashley,003
+ILAM,United States,Arkansas,05,Clark,019
+ILAM,United States,Arkansas,05,Conway,029
+ILAM,United States,Arkansas,05,Desha,041
+ILAM,United States,Arkansas,05,Faulkner,045
+ILAM,United States,Arkansas,05,Garland,051
+ILAM,United States,Arkansas,05,Hempstead,057
+ILAM,United States,Arkansas,05,Independence,063
+ILAM,United States,Arkansas,05,Izard,065
+ILAM,United States,Arkansas,05,Johnson,071
+ILAM,United States,Arkansas,05,Logan,083
+ILAM,United States,Arkansas,05,Marion,089
+ILAM,United States,Arkansas,05,Montgomery,097
+ILAM,United States,Arkansas,05,Newton,101
+ILAM,United States,Arkansas,05,Ouachita,103
+ILAM,United States,Arkansas,05,Pike,109
+ILAM,United States,Arkansas,05,Polk,113
+ILAM,United States,Arkansas,05,Pope,115
+ILAM,United States,Arkansas,05,Saline,125
+ILAM,United States,Arkansas,05,Stone,137
+ILAM,United States,Arkansas,05,Union,139
+ILAM,United States,Florida,12,,
+ILAM,United States,Florida,12,Alachua,001
+ILAM,United States,Florida,12,Bay,005
+ILAM,United States,Florida,12,Brevard,009
+ILAM,United States,Florida,12,Calhoun,013
+ILAM,United States,Florida,12,Citrus,017
+ILAM,United States,Florida,12,Clay,019
+ILAM,United States,Florida,12,Columbia,023
+ILAM,United States,Florida,12,DeSoto,027
+ILAM,United States,Florida,12,Duval,031
+ILAM,United States,Florida,12,Escambia,033
+ILAM,United States,Florida,12,Flagler,035
+ILAM,United States,Florida,12,Franklin,037
+ILAM,United States,Florida,12,Gadsden,039
+ILAM,United States,Florida,12,Gulf,045
+ILAM,United States,Florida,12,Hamilton,047
+ILAM,United States,Florida,12,Hardee,049
+ILAM,United States,Florida,12,Hernando,053
+ILAM,United States,Florida,12,Highlands,055
+ILAM,United States,Florida,12,Hillsborough,057
+ILAM,United States,Florida,12,Holmes,059
+ILAM,United States,Florida,12,Indian River,061
+ILAM,United States,Florida,12,Jackson,063
+ILAM,United States,Florida,12,Lafayette,067
+ILAM,United States,Florida,12,Lake,069
+ILAM,United States,Florida,12,Lee,071
+ILAM,United States,Florida,12,Leon,073
+ILAM,United States,Florida,12,Levy,075
+ILAM,United States,Florida,12,Liberty,077
+ILAM,United States,Florida,12,Manatee,081
+ILAM,United States,Florida,12,Marion,083
+ILAM,United States,Florida,12,Martin,085
+ILAM,United States,Florida,12,Nassau,089
+ILAM,United States,Florida,12,Okaloosa,091
+ILAM,United States,Florida,12,Orange,095
+ILAM,United States,Florida,12,Osceola,097
+ILAM,United States,Florida,12,Pasco,101
+ILAM,United States,Florida,12,Pinellas,103
+ILAM,United States,Florida,12,Polk,105
+ILAM,United States,Florida,12,Putnam,107
+ILAM,United States,Florida,12,Santa Rosa,113
+ILAM,United States,Florida,12,Sarasota,115
+ILAM,United States,Florida,12,Seminole,117
+ILAM,United States,Florida,12,St. Johns,109
+ILAM,United States,Florida,12,Sumter,119
+ILAM,United States,Florida,12,Suwannee,121
+ILAM,United States,Florida,12,Taylor,123
+ILAM,United States,Florida,12,Volusia,127
+ILAM,United States,Florida,12,Wakulla,129
+ILAM,United States,Florida,12,Walton,131
+ILAM,United States,Georgia,13,,
+ILAM,United States,Georgia,13,Baker,007
+ILAM,United States,Georgia,13,Baldwin,009
+ILAM,United States,Georgia,13,Ben Hill,017
+ILAM,United States,Georgia,13,Calhoun,037
+ILAM,United States,Georgia,13,Camden,039
+ILAM,United States,Georgia,13,Charlton,049
+ILAM,United States,Georgia,13,Chatham,051
+ILAM,United States,Georgia,13,Clay,061
+ILAM,United States,Georgia,13,Coffee,069
+ILAM,United States,Georgia,13,Colquitt,071
+ILAM,United States,Georgia,13,Columbia,073
+ILAM,United States,Georgia,13,Dade,083
+ILAM,United States,Georgia,13,Dawson,085
+ILAM,United States,Georgia,13,Decatur,087
+ILAM,United States,Georgia,13,Early,099
+ILAM,United States,Georgia,13,Fannin,111
+ILAM,United States,Georgia,13,Floyd,115
+ILAM,United States,Georgia,13,Gilmer,123
+ILAM,United States,Georgia,13,Lincoln,181
+ILAM,United States,Georgia,13,Long,183
+ILAM,United States,Georgia,13,Lowndes,185
+ILAM,United States,Georgia,13,Lumpkin,187
+ILAM,United States,Georgia,13,McDuffie,189
+ILAM,United States,Georgia,13,McIntosh,191
+ILAM,United States,Georgia,13,Pickens,227
+ILAM,United States,Georgia,13,Pierce,229
+ILAM,United States,Georgia,13,Rabun,241
+ILAM,United States,Georgia,13,Richmond,245
+ILAM,United States,Georgia,13,Seminole,253
+ILAM,United States,Georgia,13,Stephens,257
+ILAM,United States,Georgia,13,Telfair,271
+ILAM,United States,Georgia,13,Thomas,275
+ILAM,United States,Georgia,13,Towns,281
+ILAM,United States,Georgia,13,Union,291
+ILAM,United States,Georgia,13,Upson,293
+ILAM,United States,Georgia,13,Walker,295
+ILAM,United States,Georgia,13,White,311
+ILAM,United States,Georgia,13,Wilkinson,319
+ILAM,United States,Kentucky,21,,
+ILAM,United States,Kentucky,21,Edmonson,061
+ILAM,United States,Kentucky,21,McCreary,147
+ILAM,United States,Kentucky,21,Powell,197
+ILAM,United States,Kentucky,21,Wolfe,237
+ILAM,United States,Louisiana,22,,
+ILAM,United States,Louisiana,22,Allen,003
+ILAM,United States,Louisiana,22,Bienville,013
+ILAM,United States,Louisiana,22,Caddo,017
+ILAM,United States,Louisiana,22,Calcasieu,019
+ILAM,United States,Louisiana,22,Caldwell,021
+ILAM,United States,Louisiana,22,Catahoula,025
+ILAM,United States,Louisiana,22,Claiborne,027
+ILAM,United States,Louisiana,22,De Soto,031
+ILAM,United States,Louisiana,22,Evangeline,039
+ILAM,United States,Louisiana,22,Jackson,049
+ILAM,United States,Louisiana,22,Lincoln,061
+ILAM,United States,Louisiana,22,Natchitoches,069
+ILAM,United States,Louisiana,22,Ouachita,073
+ILAM,United States,Louisiana,22,Rapides,079
+ILAM,United States,Louisiana,22,Red River,081
+ILAM,United States,Louisiana,22,St. Helena,091
+ILAM,United States,Louisiana,22,St. Tammany,103
+ILAM,United States,Louisiana,22,Union,111
+ILAM,United States,Louisiana,22,Vernon,115
+ILAM,United States,Louisiana,22,Washington,117
+ILAM,United States,Louisiana,22,Webster,119
+ILAM,United States,Louisiana,22,West Feliciana,125
+ILAM,United States,Louisiana,22,Winn,127
+ILAM,United States,Mississippi,28,,
+ILAM,United States,Mississippi,28,Amite,005
+ILAM,United States,Mississippi,28,Clarke,023
+ILAM,United States,Mississippi,28,Clay,025
+ILAM,United States,Mississippi,28,Covington,031
+ILAM,United States,Mississippi,28,Forrest,035
+ILAM,United States,Mississippi,28,Franklin,037
+ILAM,United States,Mississippi,28,George,039
+ILAM,United States,Mississippi,28,Greene,041
+ILAM,United States,Mississippi,28,Hancock,045
+ILAM,United States,Mississippi,28,Harrison,047
+ILAM,United States,Mississippi,28,Hinds,049
+ILAM,United States,Mississippi,28,Itawamba,057
+ILAM,United States,Mississippi,28,Jackson,059
+ILAM,United States,Mississippi,28,Lauderdale,075
+ILAM,United States,Mississippi,28,Lee,081
+ILAM,United States,Mississippi,28,Lowndes,087
+ILAM,United States,Mississippi,28,Marion,091
+ILAM,United States,Mississippi,28,Monroe,095
+ILAM,United States,Mississippi,28,Neshoba,099
+ILAM,United States,Mississippi,28,Newton,101
+ILAM,United States,Mississippi,28,Pearl River,109
+ILAM,United States,Mississippi,28,Perry,111
+ILAM,United States,Mississippi,28,Pike,113
+ILAM,United States,Mississippi,28,Rankin,121
+ILAM,United States,Mississippi,28,Smith,129
+ILAM,United States,Mississippi,28,Tishomingo,141
+ILAM,United States,Mississippi,28,Wilkinson,157
+ILAM,United States,North Carolina,37,,
+ILAM,United States,North Carolina,37,Beaufort,013
+ILAM,United States,North Carolina,37,Brunswick,019
+ILAM,United States,North Carolina,37,Cumberland,051
+ILAM,United States,North Carolina,37,Jones,103
+ILAM,United States,North Carolina,37,Lenoir,107
+ILAM,United States,North Carolina,37,Robeson,155
+ILAM,United States,North Carolina,37,Wayne,191
+ILAM,United States,Oklahoma,40,,
+ILAM,United States,South Carolina,45,,
+ILAM,United States,South Carolina,45,Aiken,003
+ILAM,United States,South Carolina,45,Beaufort,013
+ILAM,United States,South Carolina,45,Charleston,019
+ILAM,United States,South Carolina,45,Chesterfield,025
+ILAM,United States,South Carolina,45,Jasper,053
+ILAM,United States,Tennessee,47,,
+ILAM,United States,Tennessee,47,Blount,009
+ILAM,United States,Tennessee,47,Hardin,071
+ILAM,United States,Tennessee,47,Hawkins,073
+ILAM,United States,Tennessee,47,Johnson,091
+ILAM,United States,Tennessee,47,Polk,139
+ILAM,United States,Tennessee,47,Roane,145
+ILAM,United States,Tennessee,47,Sevier,155
+ILAM,United States,Texas,48,,
+ILAM,United States,Texas,48,Hardin,199
+ILAM,United States,Texas,48,Jasper,241
+ILAM,United States,Texas,48,Liberty,291
+ILAM,United States,Texas,48,Montgomery,339
+ILAM,United States,Texas,48,San Jacinto,407
+ILAM,United States,Texas,48,Smith,423
+ILAM,United States,Texas,48,Trinity,455
+ILAM,United States,Texas,48,Upshur,459
+ILAM,United States,Texas,48,Walker,471
+ILAM,United States,Virginia,51,,

@@ -1,0 +1,170 @@
+﻿Symbol,Country,State,State FIP,County,County FIP
+ILCO,United States,Alabama,01,,
+ILCO,United States,Alabama,01,Baldwin,003
+ILCO,United States,Alabama,01,Barbour,005
+ILCO,United States,Alabama,01,Clarke,025
+ILCO,United States,Alabama,01,Coffee,031
+ILCO,United States,Alabama,01,Conecuh,035
+ILCO,United States,Alabama,01,Escambia,053
+ILCO,United States,Alabama,01,Geneva,061
+ILCO,United States,Alabama,01,Lee,081
+ILCO,United States,Alabama,01,Mobile,097
+ILCO,United States,Alabama,01,Pike,109
+ILCO,United States,Alabama,01,Washington,129
+ILCO,United States,Florida,12,,
+ILCO,United States,Florida,12,Alachua,001
+ILCO,United States,Florida,12,Baker,003
+ILCO,United States,Florida,12,Bay,005
+ILCO,United States,Florida,12,Calhoun,013
+ILCO,United States,Florida,12,Clay,019
+ILCO,United States,Florida,12,Columbia,023
+ILCO,United States,Florida,12,Dixie,029
+ILCO,United States,Florida,12,Escambia,033
+ILCO,United States,Florida,12,Franklin,037
+ILCO,United States,Florida,12,Gadsden,039
+ILCO,United States,Florida,12,Gilchrist,041
+ILCO,United States,Florida,12,Gulf,045
+ILCO,United States,Florida,12,Hamilton,047
+ILCO,United States,Florida,12,Hernando,053
+ILCO,United States,Florida,12,Jackson,063
+ILCO,United States,Florida,12,Jefferson,065
+ILCO,United States,Florida,12,Lafayette,067
+ILCO,United States,Florida,12,Lake,069
+ILCO,United States,Florida,12,Leon,073
+ILCO,United States,Florida,12,Levy,075
+ILCO,United States,Florida,12,Liberty,077
+ILCO,United States,Florida,12,Marion,083
+ILCO,United States,Florida,12,Nassau,089
+ILCO,United States,Florida,12,Okaloosa,091
+ILCO,United States,Florida,12,Orange,095
+ILCO,United States,Florida,12,Polk,105
+ILCO,United States,Florida,12,Putnam,107
+ILCO,United States,Florida,12,Santa Rosa,113
+ILCO,United States,Florida,12,Seminole,117
+ILCO,United States,Florida,12,Suwannee,121
+ILCO,United States,Florida,12,Taylor,123
+ILCO,United States,Florida,12,Union,125
+ILCO,United States,Florida,12,Volusia,127
+ILCO,United States,Florida,12,Wakulla,129
+ILCO,United States,Florida,12,Walton,131
+ILCO,United States,Florida,12,Washington,133
+ILCO,United States,Georgia,13,,
+ILCO,United States,Georgia,13,Appling,001
+ILCO,United States,Georgia,13,Berrien,019
+ILCO,United States,Georgia,13,Brantley,025
+ILCO,United States,Georgia,13,Brooks,027
+ILCO,United States,Georgia,13,Calhoun,037
+ILCO,United States,Georgia,13,Candler,043
+ILCO,United States,Georgia,13,Charlton,049
+ILCO,United States,Georgia,13,Chatham,051
+ILCO,United States,Georgia,13,Clay,061
+ILCO,United States,Georgia,13,Clinch,065
+ILCO,United States,Georgia,13,Columbia,073
+ILCO,United States,Georgia,13,Decatur,087
+ILCO,United States,Georgia,13,Echols,101
+ILCO,United States,Georgia,13,Elbert,105
+ILCO,United States,Georgia,13,Emanuel,107
+ILCO,United States,Georgia,13,Grady,131
+ILCO,United States,Georgia,13,Lanier,173
+ILCO,United States,Georgia,13,Lee,177
+ILCO,United States,Georgia,13,Liberty,179
+ILCO,United States,Georgia,13,Long,183
+ILCO,United States,Georgia,13,Marion,197
+ILCO,United States,Georgia,13,McDuffie,189
+ILCO,United States,Georgia,13,McIntosh,191
+ILCO,United States,Georgia,13,Meriwether,199
+ILCO,United States,Georgia,13,Randolph,243
+ILCO,United States,Georgia,13,Screven,251
+ILCO,United States,Georgia,13,Talbot,263
+ILCO,United States,Georgia,13,Tattnall,267
+ILCO,United States,Georgia,13,Telfair,271
+ILCO,United States,Georgia,13,Turner,287
+ILCO,United States,Georgia,13,Ware,299
+ILCO,United States,Louisiana,22,,
+ILCO,United States,Louisiana,22,Beauregard,011
+ILCO,United States,Louisiana,22,Calcasieu,019
+ILCO,United States,Louisiana,22,Natchitoches,069
+ILCO,United States,Louisiana,22,St. Tammany,103
+ILCO,United States,Louisiana,22,Tangipahoa,105
+ILCO,United States,Louisiana,22,Vernon,115
+ILCO,United States,Louisiana,22,Washington,117
+ILCO,United States,Mississippi,28,,
+ILCO,United States,Mississippi,28,Clarke,023
+ILCO,United States,Mississippi,28,Covington,031
+ILCO,United States,Mississippi,28,Forrest,035
+ILCO,United States,Mississippi,28,George,039
+ILCO,United States,Mississippi,28,Greene,041
+ILCO,United States,Mississippi,28,Hancock,045
+ILCO,United States,Mississippi,28,Harrison,047
+ILCO,United States,Mississippi,28,Jackson,059
+ILCO,United States,Mississippi,28,Lamar,073
+ILCO,United States,Mississippi,28,Lawrence,077
+ILCO,United States,Mississippi,28,Marion,091
+ILCO,United States,Mississippi,28,Pearl River,109
+ILCO,United States,Mississippi,28,Pike,113
+ILCO,United States,Mississippi,28,Smith,129
+ILCO,United States,Mississippi,28,Stone,131
+ILCO,United States,Mississippi,28,Wayne,153
+ILCO,United States,North Carolina,37,,
+ILCO,United States,North Carolina,37,Beaufort,013
+ILCO,United States,North Carolina,37,Bladen,017
+ILCO,United States,North Carolina,37,Brunswick,019
+ILCO,United States,North Carolina,37,Carteret,031
+ILCO,United States,North Carolina,37,Chowan,041
+ILCO,United States,North Carolina,37,Columbus,047
+ILCO,United States,North Carolina,37,Craven,049
+ILCO,United States,North Carolina,37,Cumberland,051
+ILCO,United States,North Carolina,37,Dare,055
+ILCO,United States,North Carolina,37,Duplin,061
+ILCO,United States,North Carolina,37,Gates,073
+ILCO,United States,North Carolina,37,Harnett,085
+ILCO,United States,North Carolina,37,Hoke,093
+ILCO,United States,North Carolina,37,Johnston,101
+ILCO,United States,North Carolina,37,Jones,103
+ILCO,United States,North Carolina,37,Lenoir,107
+ILCO,United States,North Carolina,37,Moore,125
+ILCO,United States,North Carolina,37,New Hanover,129
+ILCO,United States,North Carolina,37,Northampton,131
+ILCO,United States,North Carolina,37,Onslow,133
+ILCO,United States,North Carolina,37,Pamlico,137
+ILCO,United States,North Carolina,37,Pender,141
+ILCO,United States,North Carolina,37,Pitt,147
+ILCO,United States,North Carolina,37,Richmond,153
+ILCO,United States,North Carolina,37,Robeson,155
+ILCO,United States,North Carolina,37,Sampson,163
+ILCO,United States,North Carolina,37,Scotland,165
+ILCO,United States,North Carolina,37,Washington,187
+ILCO,United States,North Carolina,37,Wayne,191
+ILCO,United States,South Carolina,45,,
+ILCO,United States,South Carolina,45,Aiken,003
+ILCO,United States,South Carolina,45,Allendale,005
+ILCO,United States,South Carolina,45,Barnwell,011
+ILCO,United States,South Carolina,45,Berkeley,015
+ILCO,United States,South Carolina,45,Calhoun,017
+ILCO,United States,South Carolina,45,Charleston,019
+ILCO,United States,South Carolina,45,Chesterfield,025
+ILCO,United States,South Carolina,45,Clarendon,027
+ILCO,United States,South Carolina,45,Darlington,031
+ILCO,United States,South Carolina,45,Dillon,033
+ILCO,United States,South Carolina,45,Dorchester,035
+ILCO,United States,South Carolina,45,Georgetown,043
+ILCO,United States,South Carolina,45,Horry,051
+ILCO,United States,South Carolina,45,Kershaw,055
+ILCO,United States,South Carolina,45,Lee,061
+ILCO,United States,South Carolina,45,Lexington,063
+ILCO,United States,South Carolina,45,Marlboro,069
+ILCO,United States,South Carolina,45,Richland,079
+ILCO,United States,South Carolina,45,Sumter,085
+ILCO,United States,Texas,48,,
+ILCO,United States,Texas,48,Angelina,005
+ILCO,United States,Texas,48,Hardin,199
+ILCO,United States,Texas,48,Jasper,241
+ILCO,United States,Texas,48,Liberty,291
+ILCO,United States,Texas,48,Montgomery,339
+ILCO,United States,Texas,48,Newton,351
+ILCO,United States,Texas,48,Polk,373
+ILCO,United States,Texas,48,San Jacinto,407
+ILCO,United States,Texas,48,Tyler,457
+ILCO,United States,Virginia,51,,
+ILCO,United States,Virginia,51,Chesapeake ,550
+ILCO,United States,Virginia,51,Suffolk ,800
